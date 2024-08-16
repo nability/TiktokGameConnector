@@ -1,0 +1,633 @@
+[
+
+    {
+        "question": "Apa yang tidak biasa dalam teknik melukis pada gambar ini?",
+        "gambar": "path_to_image_31.jpg",
+        "answer": "Palet warna terbalik",
+        "A": "Palet warna terbalik",
+        "B": "Garis halus",
+        "C": "Lukisan kuas datar",
+        "D": "Pola titik"
+    },
+    {
+        "question": "Apa yang menciptakan pola simetris dalam cahaya pada gambar ini?",
+        "gambar": "path_to_image_32.jpg",
+        "answer": "Difraksi cahaya",
+        "A": "Difraksi cahaya",
+        "B": "Pencahayaan spiral",
+        "C": "Lensa prisma",
+        "D": "Ilusi optik"
+    },
+    {
+        "question": "Apa yang mungkin ditemukan pada batu misterius ini?",
+        "gambar": "path_to_image_33.jpg",
+        "answer": "Fosil prasejarah",
+        "A": "Fosil prasejarah",
+        "B": "Tulang hewan",
+        "C": "Kerangka manusia",
+        "D": "Peta bintang"
+    },
+    {
+        "question": "Apa yang mungkin menciptakan kilau aneh pada air di gambar ini?",
+        "gambar": "path_to_image_34.jpg",
+        "answer": "Cahaya bulan",
+        "A": "Refleksi lampu kota",
+        "B": "Aurora borealis",
+        "C": "Cahaya bulan",
+        "D": "Fosfor cahaya"
+    },
+    {
+        "question": "Apa yang bisa menjelaskan pola simetri tak biasa pada pohon di gambar ini?",
+        "gambar": "path_to_image_35.jpg",
+        "answer": "Mikroba simbiosis",
+        "A": "Mutasi genetik",
+        "B": "Efek radiasi",
+        "C": "Mikroba simbiosis",
+        "D": "Kontaminasi tanah"
+    },
+    {
+        "question": "Apa yang mungkin menjadi asal usul lukisan dinding yang unik ini?",
+        "gambar": "path_to_image_36.jpg",
+        "answer": "Kisah mitologi",
+        "A": "Kisah mitologi",
+        "B": "Upacara ritual",
+        "C": "Catatan peristiwa",
+        "D": "Perburuan hewan"
+    },
+    {
+        "question": "Apa yang terlihat seperti hewan di antara bintang-bintang dalam gambar ini?",
+        "gambar": "path_to_image_37.jpg",
+        "answer": "Burung",
+        "A": "Burung",
+        "B": "Ikan",
+        "C": "Kuda",
+        "D": "Serangga"
+    },
+    {
+        "question": "Apa yang mungkin tersembunyi di balik cahaya dalam gambar ini?",
+        "gambar": "path_to_image_38.jpg",
+        "answer": "Gerhana matahari",
+        "A": "Gerhana matahari",
+        "B": "Nebula",
+        "C": "Komet",
+        "D": "Bintang supernova"
+    },
+    {
+        "question": "Apa yang menciptakan ilusi dalam air pada gambar ini?",
+        "gambar": "path_to_image_39.jpg",
+        "answer": "Efek lensa air",
+        "A": "Refleksi objek",
+        "B": "Efek lensa air",
+        "C": "Interferensi gelombang",
+        "D": "Pembiasan cahaya"
+    },
+    {
+        "question": "Apa yang membuat pohon ini terlihat seolah-olah sedang bergerak?",
+        "gambar": "path_to_image_40.jpg",
+        "answer": "Angin kencang",
+        "A": "Gempa bumi",
+        "B": "Angin kencang",
+        "C": "Efek optik",
+        "D": "Akar longgar"
+    },
+    {
+        "question": "Apa yang tidak biasa tentang pola kristal yang terbentuk dalam gambar ini?",
+        "gambar": "path_to_image_41.jpg",
+        "answer": "Simetri segi enam",
+        "A": "Simetri segi enam",
+        "B": "Asimetri garis",
+        "C": "Distorsi sudut",
+        "D": "Interferensi warna"
+    },
+    {
+        "question": "Apa yang tampak tidak biasa pada pola hujan yang tertangkap di gambar ini?",
+        "gambar": "path_to_image_42.jpg",
+        "answer": "Cahaya matahari terfokus",
+        "A": "Cahaya bulan",
+        "B": "Awan yang hilang",
+        "C": "Cahaya matahari terfokus",
+        "D": "Kilatan petir"
+    },
+    {
+        "question": "Apa yang menciptakan refleksi yang aneh pada kaca dalam gambar ini?",
+        "gambar": "path_to_image_43.jpg",
+        "answer": "Cahaya terpecah",
+        "A": "Objek di balik kaca",
+        "B": "Efek distorsi kaca",
+        "C": "Cahaya terpecah",
+        "D": "Ilusi perspektif"
+    },
+    {
+        "question": "Apa yang menciptakan pola berputar dalam kabut pada gambar ini?",
+        "gambar": "path_to_image_44.jpg",
+        "answer": "Angin turbulensi",
+        "A": "Efek cahaya",
+        "B": "Angin turbulensi",
+        "C": "Efek gelombang suara",
+        "D": "Pergerakan awan"
+    },
+    {
+        "question": "Apa yang menyebabkan warna aneh pada daun-daun di gambar ini?",
+        "gambar": "path_to_image_45.jpg",
+        "answer": "Perubahan musim",
+        "A": "Mutasi genetik",
+        "B": "Kontaminasi tanah",
+        "C": "Perubahan musim",
+        "D": "Efek cahaya"
+    },
+    {
+        "question": "Apa yang mungkin menyebabkan pola erosi unik pada batu di gambar ini?",
+        "gambar": "path_to_image_46.jpg",
+        "answer": "Aliran air bawah tanah",
+        "A": "Aliran air bawah tanah",
+        "B": "Pengaruh angin",
+        "C": "Gerakan tektonik",
+        "D": "Pembekuan es"
+    },
+    {
+        "question": "Apa yang tidak biasa tentang warna langit saat senja pada gambar ini?",
+        "gambar": "path_to_image_47.jpg",
+        "answer": "Efek polusi udara",
+        "A": "Refleksi laut",
+        "B": "Efek polusi udara",
+        "C": "Pola awan langka",
+        "D": "Interferensi cahaya"
+    },
+    {
+        "question": "Apa yang menginspirasi bentuk hewan dalam seni pasir pada gambar ini?",
+        "gambar": "path_to_image_48.jpg",
+        "answer": "Legenda lokal",
+        "A": "Hewan nyata",
+        "B": "Mutasi genetik",
+        "C": "Legenda lokal",
+        "D": "Fantasi ilmiah"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa pada permukaan air dalam gambar ini?",
+        "gambar": "path_to_image_49.jpg",
+        "answer": "Gelombang tak wajar",
+        "A": "Batu di bawahnya",
+        "B": "Refleksi pohon",
+        "C": "Gelombang tak wajar",
+        "D": "Warna langit"
+    },
+    {
+        "question": "Apa yang mungkin menjadi asal usul pola warna-warni dalam es di gambar ini?",
+        "gambar": "path_to_image_50.jpg",
+        "answer": "Refleksi kristal",
+        "A": "Refleksi kristal",
+        "B": "Efek cahaya matahari",
+        "C": "Pencampuran mineral",
+        "D": "Pembiasan warna"
+    },
+    {
+        "question": "Apa yang tidak biasa tentang jejak kaki yang terlihat di pasir pada gambar ini?",
+        "gambar": "path_to_image_51.jpg",
+        "answer": "Ukuran besar",
+        "A": "Ukuran besar",
+        "B": "Jumlah banyak",
+        "C": "Arah acak",
+        "D": "Pola berulang"
+    },
+    {
+        "question": "Apa yang mungkin menciptakan ilusi bentuk wajah dalam bayangan pada gambar ini?",
+        "gambar": "path_to_image_52.jpg",
+        "answer": "Bayangan pohon",
+        "A": "Distorsi lensa",
+        "B": "Refleksi air",
+        "C": "Bayangan pohon",
+        "D": "Efek cahaya"
+    },
+    {
+        "question": "Apa yang menciptakan ilusi gerakan pada awan di gambar ini?",
+        "gambar": "path_to_image_53.jpg",
+        "answer": "Efek angin",
+        "A": "Pembiasan cahaya",
+        "B": "Efek angin",
+        "C": "Pergerakan atmosfer",
+        "D": "Refleksi langit"
+    },
+    {
+        "question": "Apa yang tidak biasa tentang refleksi di danau dalam gambar ini?",
+        "gambar": "path_to_image_54.jpg",
+        "answer": "Refleksi terbalik",
+        "A": "Distorsi warna",
+        "B": "Kedalaman air",
+        "C": "Refleksi terbalik",
+        "D": "Bayangan objek"
+    },
+    {
+        "question": "Apa yang mungkin menjadi asal usul batu besar yang tergantung di gambar ini?",
+        "gambar": "path_to_image_55.jpg",
+        "answer": "Erupsi gunung berapi",
+        "A": "Pergeseran tanah",
+        "B": "Erupsi gunung berapi",
+        "C": "Gempa bumi",
+        "D": "Gerakan glasial"
+    },
+    {
+        "question": "Apa yang menciptakan pola geometris di dalam tanaman pada gambar ini?",
+        "gambar": "path_to_image_56.jpg",
+        "answer": "Genetika tanaman",
+        "A": "Serangga",
+        "B": "Genetika tanaman",
+        "C": "Pengaruh cuaca",
+        "D": "Kontaminasi tanah"
+    },
+    {
+        "question": "Apa yang menyebabkan bayangan panjang pada gambar ini?",
+        "gambar": "path_to_image_57.jpg",
+        "answer": "Posisi matahari",
+        "A": "Kaca pembesar",
+        "B": "Distorsi lensa",
+        "C": "Posisi matahari",
+        "D": "Efek pencahayaan"
+    },
+    {
+        "question": "Apa yang terlihat seperti makhluk laut di dasar sungai pada gambar ini?",
+        "gambar": "path_to_image_58.jpg",
+        "answer": "Kerangka ikan",
+        "A": "Cangkang kerang",
+        "B": "Kerangka ikan",
+        "C": "Tumbuhan air",
+        "D": "Hewan purba"
+    },
+    {
+        "question": "Apa yang membuat pepohonan di gambar ini tampak lebih besar dari biasanya?",
+        "gambar": "path_to_image_59.jpg",
+        "answer": "Ilusi perspektif",
+        "A": "Mutasi genetik",
+        "B": "Pertumbuhan cepat",
+        "C": "Ilusi perspektif",
+        "D": "Pembiasan cahaya"
+    },
+    {
+        "question": "Apa yang mungkin menjadi asal usul benda terbang dalam gambar ini?",
+        "gambar": "path_to_image_60.jpg",
+        "answer": "Balon udara panas",
+        "A": "Meteor",
+        "B": "Saturnus",
+        "C": "Balon udara panas",
+        "D": "Satelit"
+    },
+    {
+        "question": "Apa yang terlihat seperti ukiran di dinding gua dalam gambar ini?",
+        "gambar": "path_to_image_61.jpg",
+        "answer": "Gambar prasejarah",
+        "A": "Gambar prasejarah",
+        "B": "Formasi batuan alami",
+        "C": "Cahaya dan bayangan",
+        "D": "Ilusi optik"
+    },
+    {
+        "question": "Apa yang membuat refleksi di kaca terlihat seperti lukisan pada gambar ini?",
+        "gambar": "path_to_image_62.jpg",
+        "answer": "Tekstur kaca",
+        "A": "Ilusi perspektif",
+        "B": "Distorsi lensa",
+        "C": "Tekstur kaca",
+        "D": "Efek bayangan"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa tentang struktur bangunan dalam gambar ini?",
+        "gambar": "path_to_image_63.jpg",
+        "answer": "Sudut tidak mungkin",
+        "A": "Lantai transparan",
+        "B": "Sudut tidak mungkin",
+        "C": "Efek bayangan",
+        "D": "Distorsi ukuran"
+    },
+    {
+        "question": "Apa yang mungkin menyebabkan warna aneh pada bebatuan di gambar ini?",
+        "gambar": "path_to_image_64.jpg",
+        "answer": "Mineral beraneka warna",
+        "A": "Lumut",
+        "B": "Mineral beraneka warna",
+        "C": "Pencemaran lingkungan",
+        "D": "Cahaya ultraviolet"
+    },
+    {
+        "question": "Apa yang mungkin menjadi asal usul pola mosaik di tanah pada gambar ini?",
+        "gambar": "path_to_image_65.jpg",
+        "answer": "Retakan akibat kekeringan",
+        "A": "Pengaruh manusia",
+        "B": "Pembekuan es",
+        "C": "Retakan akibat kekeringan",
+        "D": "Pengaruh hewan"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa tentang refleksi di air pada gambar ini?",
+        "gambar": "path_to_image_66.jpg",
+        "answer": "Refleksi terbalik",
+        "A": "Refleksi terbalik",
+        "B": "Pembiasan cahaya",
+        "C": "Distorsi warna",
+        "D": "Gelembung air"
+    },
+    {
+        "question": "Apa yang mungkin menyebabkan fenomena langka pada langit dalam gambar ini?",
+        "gambar": "path_to_image_67.jpg",
+        "answer": "Awan mammatus",
+        "A": "Hujan meteor",
+        "B": "Awan mammatus",
+        "C": "Pembiasan cahaya",
+        "D": "Angin kencang"
+    },
+    {
+        "question": "Apa yang tampak seperti benda asing yang terletak di permukaan batu dalam gambar ini?",
+        "gambar": "path_to_image_68.jpg",
+        "answer": "Artefak sejarah",
+        "A": "Mineral langka",
+        "B": "Artefak sejarah",
+        "C": "Jejak kaki",
+        "D": "Fosil tanaman"
+    },
+    {
+        "question": "Apa yang mungkin menjadi asal usul pola unik pada kaca jendela di gambar ini?",
+        "gambar": "path_to_image_69.jpg",
+        "answer": "Tekanan suhu",
+        "A": "Distorsi cahaya",
+        "B": "Pengaruh kimia",
+        "C": "Tekanan suhu",
+        "D": "Efek bayangan"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa tentang garis di cakrawala pada gambar ini?",
+        "gambar": "path_to_image_70.jpg",
+        "answer": "Penyimpangan perspektif",
+        "A": "Pengaruh atmosfer",
+        "B": "Penyimpangan perspektif",
+        "C": "Efek cahaya",
+        "D": "Objek terbang"
+    },
+    {
+        "question": "Apa yang mungkin menyebabkan pembiasan warna pada awan dalam gambar ini?",
+        "gambar": "path_to_image_71.jpg",
+        "answer": "Cahaya matahari",
+        "A": "Cahaya matahari",
+        "B": "Partikel es",
+        "C": "Interferensi cahaya",
+        "D": "Polusi udara"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa tentang pola ombak di pantai pada gambar ini?",
+        "gambar": "path_to_image_72.jpg",
+        "answer": "Gelombang tidak simetris",
+        "A": "Gelombang tidak simetris",
+        "B": "Pantulan cahaya",
+        "C": "Batu di bawah air",
+        "D": "Pola pasir"
+    },
+    {
+        "question": "Apa yang mungkin menyebabkan warna terang pada bunga dalam gambar ini?",
+        "gambar": "path_to_image_73.jpg",
+        "answer": "Polinasi",
+        "A": "Kontaminasi tanah",
+        "B": "Efek cahaya",
+        "C": "Polinasi",
+        "D": "Mutasi genetik"
+    },
+    {
+        "question": "Apa yang tampak seperti bentuk hewan yang terbentuk dari bebatuan di gambar ini?",
+        "gambar": "path_to_image_74.jpg",
+        "answer": "Kuda",
+        "A": "Burung",
+        "B": "Kura-kura",
+        "C": "Kuda",
+        "D": "Ikan paus"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa tentang pola pelangi pada gambar ini?",
+        "gambar": "path_to_image_75.jpg",
+        "answer": "Pembiasan ganda",
+        "A": "Pola garis lurus",
+        "B": "Efek bayangan",
+        "C": "Pembiasan ganda",
+        "D": "Warna yang hilang"
+    },
+    {
+        "question": "Apa yang mungkin menyebabkan pola aneh pada pasir dalam gambar ini?",
+        "gambar": "path_to_image_76.jpg",
+        "answer": "Angin kencang",
+        "A": "Gerakan air",
+        "B": "Kontaminasi tanah",
+        "C": "Angin kencang",
+        "D": "Aliran lava"
+    },
+    {
+        "question": "Apa yang tidak biasa tentang tekstur kulit pohon pada gambar ini?",
+        "gambar": "path_to_image_77.jpg",
+        "answer": "Efek pertumbuhan",
+        "A": "Efek pertumbuhan",
+        "B": "Mutasi genetik",
+        "C": "Kerusakan oleh serangga",
+        "D": "Pengaruh cuaca"
+    },
+    {
+        "question": "Apa yang mungkin menyebabkan pola simetris pada es dalam gambar ini?",
+        "gambar": "path_to_image_78.jpg",
+        "answer": "Pembekuan cepat",
+        "A": "Kristalisasi mineral",
+        "B": "Pembekuan cepat",
+        "C": "Pengaruh angin",
+        "D": "Kontaminasi air"
+    },
+    {
+        "question": "Apa yang terlihat seperti simbol dalam batu karang di gambar ini?",
+        "gambar": "path_to_image_79.jpg",
+        "answer": "Petroglyph",
+        "A": "Kristal alami",
+        "B": "Lava mengeras",
+        "C": "Petroglyph",
+        "D": "Jejak kaki hewan"
+    },
+    {
+        "question": "Apa yang menciptakan ilusi optik pada jendela dalam gambar ini?",
+        "gambar": "path_to_image_80.jpg",
+        "answer": "Distorsi lensa",
+        "A": "Efek cahaya",
+        "B": "Kaca berwarna",
+        "C": "Distorsi lensa",
+        "D": "Pembiasan cahaya"
+    },
+    {
+        "question": "Apa yang tampak seperti ukiran aneh di pohon dalam gambar ini?",
+        "gambar": "path_to_image_81.jpg",
+        "answer": "Efek pertumbuhan",
+        "A": "Hewan yang tidak biasa",
+        "B": "Efek pertumbuhan",
+        "C": "Kerusakan oleh cuaca",
+        "D": "Jejak kaki manusia"
+    },
+    {
+        "question": "Apa yang mungkin menyebabkan warna tidak biasa pada langit malam di gambar ini?",
+        "gambar": "path_to_image_82.jpg",
+        "answer": "Partikel di atmosfer",
+        "A": "Polusi cahaya",
+        "B": "Partikel di atmosfer",
+        "C": "Interferensi gelombang",
+        "D": "Refleksi bulan"
+    },
+    {
+        "question": "Apa yang tidak biasa tentang refleksi di danau pada gambar ini?",
+        "gambar": "path_to_image_83.jpg",
+        "answer": "Pembiasan warna",
+        "A": "Pembiasan warna",
+        "B": "Objek di bawah air",
+        "C": "Distorsi cahaya",
+        "D": "Efek bayangan"
+    },
+    {
+        "question": "Apa yang menciptakan ilusi kedalaman pada gambar ini?",
+        "gambar": "path_to_image_84.jpg",
+        "answer": "Pengaruh bayangan",
+        "A": "Pembiasan cahaya",
+        "B": "Tekstur permukaan",
+        "C": "Pengaruh bayangan",
+        "D": "Efek perspektif"
+    },
+    {
+        "question": "Apa yang mungkin menjadi asal usul pola garis pada daun di gambar ini?",
+        "gambar": "path_to_image_85.jpg",
+        "answer": "Mutasi genetik",
+        "A": "Pengaruh cahaya",
+        "B": "Kontaminasi tanah",
+        "C": "Mutasi genetik",
+        "D": "Serangan hama"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa tentang jejak kaki di salju pada gambar ini?",
+        "gambar": "path_to_image_86.jpg",
+        "answer": "Pola tak biasa",
+        "A": "Pola tak biasa",
+        "B": "Jumlah banyak",
+        "C": "Ukuran besar",
+        "D": "Arah berlawanan"
+    },
+    {
+        "question": "Apa yang mungkin menyebabkan warna cerah pada batu di gambar ini?",
+        "gambar": "path_to_image_87.jpg",
+        "answer": "Pembiasan cahaya",
+        "A": "Kontaminasi mineral",
+        "B": "Pengaruh cuaca",
+        "C": "Pembiasan cahaya",
+        "D": "Efek bayangan"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa tentang pola dedaunan dalam gambar ini?",
+        "gambar": "path_to_image_88.jpg",
+        "answer": "Pembiasan cahaya",
+        "A": "Pengaruh angin",
+        "B": "Mutasi genetik",
+        "C": "Pembiasan cahaya",
+        "D": "Pengaruh air"
+    },
+    {
+        "question": "Apa yang menciptakan ilusi jarak pada pegunungan di gambar ini?",
+        "gambar": "path_to_image_89.jpg",
+        "answer": "Efek perspektif",
+        "A": "Pembiasan cahaya",
+        "B": "Efek perspektif",
+        "C": "Distorsi atmosfer",
+        "D": "Pengaruh bayangan"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa tentang warna air terjun di gambar ini?",
+        "gambar": "path_to_image_90.jpg",
+        "answer": "Pembiasan cahaya",
+        "A": "Kontaminasi air",
+        "B": "Pembiasan cahaya",
+        "C": "Pengaruh cuaca",
+        "D": "Cahaya bulan"
+    },
+    {
+        "question": "Apa yang mungkin menjadi asal usul pola garis pada salju di gambar ini?",
+        "gambar": "path_to_image_91.jpg",
+        "answer": "Angin kencang",
+        "A": "Aliran air",
+        "B": "Kontaminasi tanah",
+        "C": "Angin kencang",
+        "D": "Pergerakan hewan"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa tentang pola pasir di pantai pada gambar ini?",
+        "gambar": "path_to_image_92.jpg",
+        "answer": "Pola gelombang",
+        "A": "Refleksi cahaya",
+        "B": "Pola gelombang",
+        "C": "Pengaruh air",
+        "D": "Efek angin"
+    },
+    {
+        "question": "Apa yang menciptakan ilusi bentuk geometris di permukaan air pada gambar ini?",
+        "gambar": "path_to_image_93.jpg",
+        "answer": "Pembiasan cahaya",
+        "A": "Aliran air",
+        "B": "Pembiasan cahaya",
+        "C": "Efek bayangan",
+        "D": "Interferensi gelombang"
+    },
+    {
+        "question": "Apa yang mungkin menjadi asal usul bentuk aneh pada batu di gambar ini?",
+        "gambar": "path_to_image_94.jpg",
+        "answer": "Erosi angin",
+        "A": "Aktivitas vulkanik",
+        "B": "Erosi angin",
+        "C": "Pembentukan mineral",
+        "D": "Pengaruh air"
+    },
+    {
+        "question": "Apa yang tampak tidak biasa tentang refleksi di sungai pada gambar ini?",
+        "gambar": "path_to_image_95.jpg",
+        "answer": "Refleksi terbalik",
+        "A": "Gelembung di air",
+        "B": "Refleksi terbalik",
+        "C": "Pembiasan cahaya",
+        "D": "Distorsi warna"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa tentang warna rumput dalam gambar ini?",
+        "gambar": "path_to_image_96.jpg",
+        "answer": "Pengaruh cahaya",
+        "A": "Kontaminasi tanah",
+        "B": "Mutasi genetik",
+        "C": "Pengaruh cahaya",
+        "D": "Efek polusi"
+    },
+    {
+        "question": "Apa yang mungkin menyebabkan pola simetris pada pohon dalam gambar ini?",
+        "gambar": "path_to_image_97.jpg",
+        "answer": "Angin kencang",
+        "A": "Angin kencang",
+        "B": "Mutasi genetik",
+        "C": "Efek pencahayaan",
+        "D": "Pengaruh air"
+    },
+    {
+        "question": "Apa yang mungkin menjadi asal usul warna aneh pada daun di gambar ini?",
+        "gambar": "path_to_image_98.jpg",
+        "answer": "Mutasi genetik",
+        "A": "Pengaruh cuaca",
+        "B": "Kontaminasi tanah",
+        "C": "Mutasi genetik",
+        "D": "Polusi udara"
+    },
+    {
+        "question": "Apa yang menciptakan ilusi bentuk wajah pada permukaan batu dalam gambar ini?",
+        "gambar": "path_to_image_99.jpg",
+        "answer": "Erosi alami",
+        "A": "Ukiran manusia",
+        "B": "Erosi alami",
+        "C": "Pengaruh cuaca",
+        "D": "Pembiasan cahaya"
+    },
+    {
+        "question": "Apa yang terlihat tidak biasa tentang refleksi di jendela pada gambar ini?",
+        "gambar": "path_to_image_100.jpg",
+        "answer": "Pembiasan cahaya",
+        "A": "Efek bayangan",
+        "B": "Pembiasan cahaya",
+        "C": "Kaca berwarna",
+        "D": "Distorsi lensa"
+    }
+]
