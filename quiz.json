@@ -1,984 +1,503 @@
-{
-    "soal_quiz": [
+[
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa ibu kota Indonesia?",
-    "jawaban": "Jakarta",
-    "A": "Surabaya",
-    "B": "Bandung",
-    "C": "Yogyakarta",
-    "D": "Bali"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Jepang?",
+      "jawaban": "Tokyo"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa ibu kota Jepang?",
-    "jawaban": "Tokyo"
+      "kategori": "essay",
+      "soal": "Siapa penemu telepon?",
+      "jawaban": "Alexander Graham Bell"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah hewan apa?",
-    "gambar_url": "https://example.com/images/lion.png",
-    "jawaban": "Singa",
-    "A": "Harimau",
-    "B": "Macan Tutul",
-    "C": "Cheetah",
-    "D": "Singa"
+      "kategori": "essay",
+      "soal": "Apa unsur paling melimpah di alam semesta?",
+      "jawaban": "Hidrogen"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah buah apa?",
-    "gambar_url": "https://example.com/images/apple.png",
-    "jawaban": "Apel"
+      "kategori": "essay",
+      "soal": "Di negara manakah Menara Eiffel berada?",
+      "jawaban": "Prancis"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Siapa presiden pertama Indonesia?",
-    "jawaban": "Soekarno",
-    "A": "Suharto",
-    "B": "Habibie",
-    "C": "Gus Dur",
-    "D": "Soekarno"
+      "kategori": "essay",
+      "soal": "Apa nama sungai terpanjang di dunia?",
+      "jawaban": "Sungai Nil"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa warna langit pada siang hari?",
-    "jawaban": "Biru"
+      "kategori": "essay",
+      "soal": "Siapa yang menulis 'Harry Potter'?",
+      "jawaban": "J.K. Rowling"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah alat musik apa?",
-    "gambar_url": "https://example.com/images/guitar.png",
-    "jawaban": "Gitar",
-    "A": "Biola",
-    "B": "Piano",
-    "C": "Gitar",
-    "D": "Drum"
+      "kategori": "essay",
+      "soal": "Apa nama samudra terbesar di dunia?",
+      "jawaban": "Samudra Pasifik"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah jenis kendaraan apa?",
-    "gambar_url": "https://example.com/images/car.png",
-    "jawaban": "Mobil"
+      "kategori": "essay",
+      "soal": "Siapa presiden pertama Amerika Serikat?",
+      "jawaban": "George Washington"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa mata uang resmi Jepang?",
-    "pilihan": ["Yen", "Dollar", "Rupiah", "Won"],
-    "jawaban": "Yen",
-    "A": "Yen",
-    "B": "Rupiah",
-    "C": "Won",
-    "D": "Dollar"
+      "kategori": "essay",
+      "soal": "Apa hewan tercepat di darat?",
+      "jawaban": "Cheetah"
     },
     {
-    "kategori": "essay",
-    "soal": "Berapa jumlah warna dalam pelangi?",
-    "jawaban": "Tujuh"
+      "kategori": "essay",
+      "soal": "Siapa pelukis 'The Starry Night'?",
+      "jawaban": "Vincent van Gogh"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah gedung apa?",
-    "gambar_url": "https://example.com/images/taj-mahal.png",
-    "jawaban": "Taj Mahal",
-    "A": "Taj Mahal",
-    "B": "Piramida",
-    "C": "Colosseum",
-    "D": "Menara Eiffel"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Jerman?",
+      "jawaban": "Berlin"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah binatang apa?",
-    "gambar_url": "https://example.com/images/tiger.png",
-    "jawaban": "Harimau"
+      "kategori": "essay",
+      "soal": "Siapa penemu pesawat terbang?",
+      "jawaban": "Wright Bersaudara"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa lambang dari bilangan pi?",
-    "jawaban": "π",
-    "A": "α",
-    "B": "β",
-    "C": "θ",
-    "D": "π"
+      "kategori": "essay",
+      "soal": "Di negara manakah Taj Mahal berada?",
+      "jawaban": "India"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa ibu kota Inggris?",
-    "jawaban": "London"
+      "kategori": "essay",
+      "soal": "Apa mata uang resmi Jepang?",
+      "jawaban": "Yen"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah planet apa?",
-    "gambar_url": "https://example.com/images/mars.png",
-    "jawaban": "Mars",
-    "A": "Bumi",
-    "B": "Venus",
-    "C": "Mars",
-    "D": "Jupiter"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'Don Quixote'?",
+      "jawaban": "Miguel de Cervantes"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah monumen apa?",
-    "gambar_url": "https://example.com/images/statue-of-liberty.png",
-    "jawaban": "Patung Liberty"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Australia?",
+      "jawaban": "Canberra"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa simbol kimia untuk air?",
-    "jawaban": "H2O",
-    "A": "O2",
-    "B": "CO2",
-    "C": "N2",
-    "D": "H2O"
+      "kategori": "essay",
+      "soal": "Apa nama pegunungan tertinggi di dunia?",
+      "jawaban": "Gunung Everest"
     },
     {
-    "kategori": "essay",
-    "soal": "Siapa penulis Harry Potter?",
-    "jawaban": "J.K. Rowling"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Kanada?",
+      "jawaban": "Ottawa"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah bangunan apa?",
-    "gambar_url": "https://example.com/images/eiffel-tower.png",
-    "jawaban": "Menara Eiffel",
-    "A": "Big Ben",
-    "B": "Empire State Building",
-    "C": "Menara Eiffel",
-    "D": "Bujr Khalifa"
+      "kategori": "essay",
+      "soal": "Siapa yang menemukan penisilin?",
+      "jawaban": "Alexander Fleming"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah pohon apa?",
-    "gambar_url": "https://example.com/images/palm-tree.png",
-    "jawaban": "Pohon Kelapa"
+      "kategori": "essay",
+      "soal": "Apa nama lautan yang membatasi benua Afrika dan Asia?",
+      "jawaban": "Laut Merah"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Siapa penemu bola lampu?",
-    "jawaban": "Thomas Edison",
-    "A": "Thomas Edison",
-    "B": "Nikola Tesla",
-    "C": "Albert Einstein",
-    "D": "Alexander Graham Bell"
+      "kategori": "essay",
+      "soal": "Siapa yang menulis 'Pride and Prejudice'?",
+      "jawaban": "Jane Austen"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa yang digunakan untuk menulis di papan tulis?",
-    "jawaban": "Kapur"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Brasil?",
+      "jawaban": "Brasilia"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah alat tulis apa?",
-    "gambar_url": "https://example.com/images/pencil.png",
-    "jawaban": "Pensil",
-    "A": "Pulpen",
-    "B": "Pensil",
-    "C": "Kuas",
-    "D": "Penghapus"
+      "kategori": "essay",
+      "soal": "Apa elemen paling ringan dalam tabel periodik?",
+      "jawaban": "Hidrogen"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah buah apa?",
-    "gambar_url": "https://example.com/images/orange.png",
-    "jawaban": "Jeruk"
+      "kategori": "essay",
+      "soal": "Di negara mana Piramida Maya berada?",
+      "jawaban": "Meksiko"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa mata uang Amerika Serikat?",
-    "jawaban": "Dollar",
-    "A": "Dollar",
-    "B": "Pound",
-    "C": "Yen",
-    "D": "Rupiah"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'Moby Dick'?",
+      "jawaban": "Herman Melville"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa warna bendera Indonesia?",
-    "jawaban": "Merah dan Putih"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Yunani?",
+      "jawaban": "Athena"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah makanan apa?",
-    "gambar_url": "https://example.com/images/pizza.png",
-    "jawaban": "Pizza",
-    "A": "Burger",
-    "B": "Hotdog",
-    "C": "Pizza",
-    "D": "Spaghetti"
+      "kategori": "essay",
+      "soal": "Apa unsur kimia dengan simbol 'Au'?",
+      "jawaban": "Emas"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah hewan air apa?",
-    "gambar_url": "https://example.com/images/dolphin.png",
-    "jawaban": "Lumba-lumba"
+      "kategori": "essay",
+      "soal": "Apa nama terusan yang menghubungkan Laut Mediterania dengan Laut Merah?",
+      "jawaban": "Terusan Suez"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa planet terdekat dengan Matahari?",
-    "jawaban": "Merkurius",
-    "A": "Venus",
-    "B": "Merkurius",
-    "C": "Mars",
-    "D": "Jupiter"
+      "kategori": "essay",
+      "soal": "Siapa yang menulis 'The Hobbit'?",
+      "jawaban": "J.R.R. Tolkien"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa yang digunakan untuk mengikat benda?",
-    "jawaban": "Tali"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Korea Selatan?",
+      "jawaban": "Seoul"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah bendera negara apa?",
-    "gambar_url": "https://example.com/images/flag-brazil.png",
-    "jawaban": "Brasil",
-    "A": "Brasil",
-    "B": "Portugal",
-    "C": "Spanyol",
-    "D": "Italia"
+      "kategori": "essay",
+      "soal": "Apa logam yang terkenal tahan terhadap karat?",
+      "jawaban": "Aluminium"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah jenis kendaraan apa?",
-    "gambar_url": "https://example.com/images/bicycle.png",
-    "jawaban": "Sepeda"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat Menara Miring Pisa?",
+      "jawaban": "Italia"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa nama ibu kota Thailand?",
-    "pilihan": ["Bangkok", "Hanoi", "Yangon", "Kuala Lumpur"],
-    "jawaban": "Bangkok",
-    "A": "Hanoi",
-    "B": "Yangon",
-    "C": "Kuala Lumpur",
-    "D": "Manila"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'War and Peace'?",
+      "jawaban": "Leo Tolstoy"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa warna daun?",
-    "jawaban": "Hijau"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Spanyol?",
+      "jawaban": "Madrid"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah alat transportasi apa?",
-    "gambar_url": "https://example.com/images/airplane.png",
-    "jawaban": "Pesawat",
-    "A": "Kapal",
-    "B": "Kereta",
-    "C": "Bus",
-    "D": "Pesawat"
+      "kategori": "essay",
+      "soal": "Apa elemen kimia yang membentuk gas rumah kaca utama?",
+      "jawaban": "Karbon dioksida"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah peralatan makan apa?",
-    "gambar_url": "https://example.com/images/spoon.png",
-    "jawaban": "Sendok"
+      "kategori": "essay",
+      "soal": "Apa nama laut terdalam di dunia?",
+      "jawaban": "Palung Mariana"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa simbol kimia untuk besi?",
-    "jawaban": "Fe",
-    "A": "Fe",
-    "B": "Ag",
-    "C": "Au",
-    "D": "Pb"
+      "kategori": "essay",
+      "soal": "Siapa yang menemukan komputer pertama?",
+      "jawaban": "Charles Babbage"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa ibu kota Rusia?",
-    "jawaban": "Moskow"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Belanda?",
+      "jawaban": "Amsterdam"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah buah apa?",
-    "gambar_url": "https://example.com/images/strawberry.png",
-    "jawaban": "Strawberry",
-    "A": "Raspberry",
-    "B": "Blueberry",
-    "C": "Blackberry",
-    "D": "Strawberry"
+      "kategori": "essay",
+      "soal": "Apa unsur kimia dengan simbol 'Fe'?",
+      "jawaban": "Besi"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah gedung apa?",
-    "gambar_url": "https://example.com/images/colosseum.png",
-    "jawaban": "Colosseum"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat reruntuhan Petra?",
+      "jawaban": "Yordania"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Siapa penemu telepon?",
-    "jawaban": "Alexander Graham Bell",
-    "A": "Thomas Edison",
-    "B": "Alexander Graham Bell",
-    "C": "Isaac Newton",
-    "D": "Benjamin Franklin"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'Les Misérables'?",
+      "jawaban": "Victor Hugo"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama benda yang digunakan untuk menyapu?",
-    "jawaban": "Sapu"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Rusia?",
+      "jawaban": "Moskow"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah bendera negara apa?",
-    "gambar_url": "https://example.com/images/flag-uk.png",
-    "jawaban": "Inggris",
-    "A": "Inggris",
-    "B": "Australia",
-    "C": "Kanada",
-    "D": "New Zealand"
+      "kategori": "essay",
+      "soal": "Apa nama unsur kimia yang ditemukan di air laut?",
+      "jawaban": "Natrium"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah alat musik apa?",
-    "gambar_url": "https://example.com/images/violin.png",
-    "jawaban": "Biola"
+      "kategori": "essay",
+      "soal": "Apa nama laut yang terletak di antara Asia dan Eropa?",
+      "jawaban": "Laut Hitam"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa yang digunakan untuk membaca?",
-    "jawaban": "Buku",
-    "A": "Pensil",
-    "B": "Buku",
-    "C": "Kertas",
-    "D": "Tas"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'To Kill a Mockingbird'?",
+      "jawaban": "Harper Lee"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa alat untuk menulis di kertas?",
-    "jawaban": "Pensil"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Inggris?",
+      "jawaban": "London"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah hewan apa?",
-    "gambar_url": "https://example.com/images/cat.png",
-    "jawaban": "Kucing",
-    "A": "Anjing",
-    "B": "Kelinci",
-    "C": "Kucing",
-    "D": "Burung"
+      "kategori": "essay",
+      "soal": "Apa elemen yang paling banyak terdapat di kerak bumi?",
+      "jawaban": "Oksigen"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah alat dapur apa?",
-    "gambar_url": "https://example.com/images/knife.png",
-    "jawaban": "Pisau"
+      "kategori": "essay",
+      "soal": "Di negara manakah Tembok Besar China berada?",
+      "jawaban": "China"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Siapa penulis buku 'Pride and Prejudice'?",
-    "jawaban": "Jane Austen",
-    "A": "Charles Dickens",
-    "B": "Mark Twain",
-    "C": "Ernest Hemingway",
-    "D": "Jane Austen"
+      "kategori": "essay",
+      "soal": "Siapa penulis '1984'?",
+      "jawaban": "George Orwell"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa yang digunakan untuk mengukur suhu?",
-    "jawaban": "Termometer"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Thailand?",
+      "jawaban": "Bangkok"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah sayuran apa?",
-    "gambar_url": "https://example.com/images/carrot.png",
-    "jawaban": "Wortel",
-    "A": "Kentang",
-    "B": "Tomat",
-    "C": "Wortel",
-    "D": "Brokoli"
+      "kategori": "essay",
+      "soal": "Apa logam yang merupakan konduktor listrik terbaik?",
+      "jawaban": "Perak"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah minuman apa?",
-    "gambar_url": "https://example.com/images/coffee.png",
-    "jawaban": "Kopi"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat kota kuno Machu Picchu?",
+      "jawaban": "Peru"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa mata uang Inggris?",
-    "jawaban": "Pound Sterling",
-    "A": "Euro",
-    "B": "Dollar",
-    "C": "Pound Sterling",
-    "D": "Rupiah"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'The Catcher in the Rye'?",
+      "jawaban": "J.D. Salinger"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa warna bendera Perancis?",
-    "jawaban": "Biru, Putih, Merah"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Afrika Selatan?",
+      "jawaban": "Pretoria"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Gambar berikut adalah jenis pohon apa?",
-    "gambar_url": "https://example.com/images/oak-tree.png",
-    "jawaban": "Pohon Oak",
-    "A": "Pohon Oak",
-    "B": "Pohon Pinus",
-    "C": "Pohon Beringin",
-    "D": "Pohon Kelapa"
+      "kategori": "essay",
+      "soal": "Apa unsur kimia dengan simbol 'He'?",
+      "jawaban": "Helium"
     },
     {
-    "kategori": "gambar_essay",
-    "soal": "Gambar berikut adalah alat transportasi apa?",
-    "gambar_url": "https://example.com/images/train.png",
-    "jawaban": "Kereta"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Meksiko?",
+      "jawaban": "Mexico City"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa nama ibu kota Australia?",
-    "pilihan": ["Canberra", "Sydney", "Melbourne", "Brisbane"],
-    "Jawaban" : "Canberra",
-    "A": "Canberra",
-    "B": "Sydney",
-    "C": "Melbourne",
-    "D": "Canberra"
+      "kategori": "essay",
+      "soal": "Apa nama danau terbesar di dunia?",
+      "jawaban": "Laut Kaspia"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Siapa presiden pertama Indonesia?",
-    "jawaban": "Soekarno",
-    "A": "Soekarno",
-    "B": "Soeharto",
-    "C": "BJ Habibie",
-    "D": "Megawati"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'Frankenstein'?",
+      "jawaban": "Mary Shelley"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa nama planet terdekat dengan matahari?",
-    "jawaban": "Merkurius",
-    "A": "Mars",
-    "B": "Venus",
-    "C": "Merkurius",
-    "D": "Bumi"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Turki?",
+      "jawaban": "Ankara"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa warna primer yang ada dalam model warna RGB?",
-    "jawaban": "Merah",
-    "A": "Merah",
-    "B": "Hijau",
-    "C": "Biru",
-    "D": "Kuning"
+      "kategori": "essay",
+      "soal": "Apa nama unsur kimia dengan simbol 'Na'?",
+      "jawaban": "Natrium"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Siapa penulis buku 'Laskar Pelangi'?",
-    "jawaban": "Andrea Hirata",
-    "A": "Pramoedya Ananta Toer",
-    "B": "Andrea Hirata",
-    "C": "Dewi Lestari",
-    "D": "Tere Liye"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat Colosseum?",
+      "jawaban": "Italia"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa nama mata uang resmi Jepang?",
-    "jawaban": "Yen",
-    "A": "Yuan",
-    "B": "Yen",
-    "C": "Won",
-    "D": "Rupiah"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'The Odyssey'?",
+      "jawaban": "Homer"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Dimana letak Tembok Besar Cina?",
-    "jawaban": "Cina",
-    "A": "Jepang",
-    "B": "Cina",
-    "C": "Korea Selatan",
-    "D": "Mongolia"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara India?",
+      "jawaban": "New Delhi"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa ibu kota Australia?",
-    "jawaban": "Canberra",
-    "A": "Sydney",
-    "B": "Melbourne",
-    "C": "Canberra",
-    "D": "Perth"
+      "kategori": "essay",
+      "soal": "Apa logam yang paling banyak digunakan di dunia?",
+      "jawaban": "Besi"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa lambang kimia untuk besi?",
-    "jawaban": "Fe",
-    "A": "Fe",
-    "B": "Au",
-    "C": "Ag",
-    "D": "Cu"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat tembok Berlin?",
+      "jawaban": "Jerman"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Berapa jumlah provinsi di Indonesia?",
-    "jawaban": "34",
-    "A": "32",
-    "B": "33",
-    "C": "34",
-    "D": "35"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'Wuthering Heights'?",
+      "jawaban": "Emily Brontë"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Siapa penemu teori relativitas?",
-    "jawaban": "Albert Einstein",
-    "A": "Isaac Newton",
-    "B": "Albert Einstein",
-    "C": "Galileo Galilei",
-    "D": "Nikola Tesla"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Kanada?",
+      "jawaban": "Ottawa"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Siapa tokoh utama dalam cerita Ramayana?",
-    "jawaban": "Rama",
-    "A": "Rama",
-    "B": "Krishna",
-    "C": "Bima",
-    "D": "Arjuna"
+      "kategori": "essay",
+      "soal": "Apa nama unsur kimia dengan simbol 'C'?",
+      "jawaban": "Karbon"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa nama samudra terbesar di dunia?",
-    "jawaban": "Samudra Pasifik",
-    "A": "Samudra Atlantik",
-    "B": "Samudra Hindia",
-    "C": "Samudra Pasifik",
-    "D": "Samudra Arktik"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat Candi Borobudur?",
+      "jawaban": "Indonesia"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Siapa penemu telepon?",
-    "jawaban": "Alexander Graham Bell",
-    "A": "Nikola Tesla",
-    "B": "Thomas Edison",
-    "C": "Alexander Graham Bell",
-    "D": "James Watt"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'The Grapes of Wrath'?",
+      "jawaban": "John Steinbeck"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa nama negara dengan populasi terbesar di dunia?",
-    "jawaban": "Cina",
-    "A": "India",
-    "B": "Amerika Serikat",
-    "C": "Cina",
-    "D": "Indonesia"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Argentina?",
+      "jawaban": "Buenos Aires"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa nama candi Budha terbesar di dunia?",
-    "jawaban": "Borobudur",
-    "A": "Angkor Wat",
-    "B": "Borobudur",
-    "C": "Shwedagon",
-    "D": "Bodh Gaya"
+      "kategori": "essay",
+      "soal": "Apa logam yang paling ringan?",
+      "jawaban": "Litium"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa ibu kota Inggris?",
-    "jawaban": "London",
-    "A": "Paris",
-    "B": "London",
-    "C": "Berlin",
-    "D": "Madrid"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat Taman Nasional Yellowstone?",
+      "jawaban": "Amerika Serikat"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Siapa yang menemukan hukum gravitasi?",
-    "jawaban": "Isaac Newton",
-    "A": "Galileo Galilei",
-    "B": "Albert Einstein",
-    "C": "Isaac Newton",
-    "D": "James Clerk Maxwell"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'Jane Eyre'?",
+      "jawaban": "Charlotte Brontë"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa nama ibukota Prancis?",
-    "jawaban": "Paris",
-    "A": "Berlin",
-    "B": "Madrid",
-    "C": "Paris",
-    "D": "Roma"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Filipina?",
+      "jawaban": "Manila"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Dimana Piramida Giza berada?",
-    "jawaban": "Mesir",
-    "A": "Mesir",
-    "B": "Yordania",
-    "C": "Meksiko",
-    "D": "India"
+      "kategori": "essay",
+      "soal": "Apa elemen kimia dengan simbol 'O'?",
+      "jawaban": "Oksigen"
     },
     {
-    "kategori": "pilihan_ganda",
-    "soal": "Apa nama sungai terpanjang di dunia?",
-    "jawaban": "Sungai Nil",
-    "A": "Sungai Amazon",
-    "B": "Sungai Nil",
-    "C": "Sungai Yangtze",
-    "D": "Sungai Mississippi"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat Great Barrier Reef?",
+      "jawaban": "Australia"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama satelit alami Bumi?",
-    "jawaban": "Bulan"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'Brave New World'?",
+      "jawaban": "Aldous Huxley"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama planet merah dalam tata surya?",
-    "jawaban": "Mars"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Thailand?",
+      "jawaban": "Bangkok"
     },
     {
-    "kategori": "essay",
-    "soal": "Siapa penulis 'Harry Potter'?",
-    "jawaban": "J.K. Rowling"
+      "kategori": "essay",
+      "soal": "Apa logam yang paling mahal?",
+      "jawaban": "Rodium"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama negara terbesar di dunia?",
-    "jawaban": "Rusia"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat Gunung Kilimanjaro?",
+      "jawaban": "Tanzania"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa ibu kota Thailand?",
-    "jawaban": "Bangkok"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'One Hundred Years of Solitude'?",
+      "jawaban": "Gabriel García Márquez"
     },
     {
-    "kategori": "essay",
-    "soal": "Siapa presiden AS saat ini?",
-    "jawaban": "Joe Biden"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Vietnam?",
+      "jawaban": "Hanoi"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama unsur kimia dengan simbol Na?",
-    "jawaban": "Natrium"
+      "kategori": "essay",
+      "soal": "Apa nama unsur kimia dengan simbol 'N'?",
+      "jawaban": "Nitrogen"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama ibu kota Italia?",
-    "jawaban": "Roma"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat Menara Pisa?",
+      "jawaban": "Italia"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama ibu kota Rusia?",
-    "jawaban": "Moskow"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'The Picture of Dorian Gray'?",
+      "jawaban": "Oscar Wilde"
     },
     {
-    "kategori": "essay",
-    "soal": "Siapa penemu mesin cetak?",
-    "jawaban": "Johannes Gutenberg"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Nigeria?",
+      "jawaban": "Abuja"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa ibu kota Kanada?",
-    "jawaban": "Ottawa"
+      "kategori": "essay",
+      "soal": "Apa logam yang digunakan dalam termometer tradisional?",
+      "jawaban": "Merkuri"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama hewan nasional Australia?",
-    "jawaban": "Kanguru"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat Sphinx?",
+      "jawaban": "Mesir"
     },
     {
-    "kategori": "essay",
-    "soal": "Siapa penulis 'War and Peace'?",
-    "jawaban": "Leo Tolstoy"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'Moby-Dick'?",
+      "jawaban": "Herman Melville"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama ibu kota Spanyol?",
-    "jawaban": "Madrid"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Norwegia?",
+      "jawaban": "Oslo"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama lautan terdalam di dunia?",
-    "jawaban": "Laut Pasifik"
+      "kategori": "essay",
+      "soal": "Apa elemen kimia dengan simbol 'K'?",
+      "jawaban": "Kalium"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama satelit terbesar Jupiter?",
-    "jawaban": "Ganymede"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat Gunung Everest?",
+      "jawaban": "Nepal"
     },
     {
-    "kategori": "essay",
-    "soal": "Siapa penulis 'The Great Gatsby'?",
-    "jawaban": "F. Scott Fitzgerald"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'Fahrenheit 451'?",
+      "jawaban": "Ray Bradbury"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama negara terpadat di dunia?",
-    "jawaban": "Cina"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Swedia?",
+      "jawaban": "Stockholm"
     },
     {
-    "kategori": "essay",
-    "soal": "Apa nama samudra terdalam di dunia?",
-    "jawaban": "Samudra Pasifik"
+      "kategori": "essay",
+      "soal": "Apa logam yang merupakan konduktor panas terbaik?",
+      "jawaban": "Perak"
     },
     {
-    "kategori": "essay",
-    "soal": "Siapa penemu bola lampu?",
-    "jawaban": "Thomas Edison"
+      "kategori": "essay",
+      "soal": "Di negara mana terdapat Pegunungan Andes?",
+      "jawaban": "Amerika Selatan"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama bangunan di gambar ini?",
-    "gambar": "path_to_building_image_8.jpg",
-    "jawaban": "Menara Eiffel",
-    "A": "Colosseum",
-    "B": "Menara Pisa",
-    "C": "Big Ben",
-    "D": "Menara Eiffel"
+      "kategori": "essay",
+      "soal": "Siapa penulis 'The Road'?",
+      "jawaban": "Cormac McCarthy"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama buah di gambar ini?",
-    "gambar": "path_to_fruit_image_8.jpg",
-    "jawaban": "Mangga",
-    "A": "Jeruk",
-    "B": "Apel",
-    "C": "Pisang",
-    "D": "Mangga"
+      "kategori": "essay",
+      "soal": "Apa ibu kota negara Arab Saudi?",
+      "jawaban": "Riyadh"
     },
     {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama binatang di gambar ini?",
-    "gambar": "path_to_animal_image_8.jpg",
-    "jawaban": "Gajah",
-    "A": "Gajah",
-    "B": "Badak",
-    "C": "Harimau",
-    "D": "Zebra"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama alat transportasi di gambar ini?",
-    "gambar": "path_to_transport_image_7.jpg",
-    "jawaban": "Kereta",
-    "A": "Pesawat",
-    "B": "Kereta",
-    "C": "Kapal",
-    "D": "Mobil"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama bendera negara di gambar ini?",
-    "gambar": "path_to_flag_image_7.jpg",
-    "jawaban": "Jepang",
-    "A": "Cina",
-    "B": "Korea Selatan",
-    "C": "Jepang",
-    "D": "Thailand"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama peta negara di gambar ini?",
-    "gambar": "path_to_map_image_8.jpg",
-    "jawaban": "Amerika Serikat",
-    "A": "Kanada",
-    "B": "Meksiko",
-    "C": "Amerika Serikat",
-    "D": "Brasil"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama buah di gambar ini?",
-    "gambar": "path_to_fruit_image_9.jpg",
-    "jawaban": "Apel",
-    "A": "Mangga",
-    "B": "Pisang",
-    "C": "Apel",
-    "D": "Jeruk"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama binatang di gambar ini?",
-    "gambar": "path_to_animal_image_9.jpg",
-    "jawaban": "Jerapah",
-    "A": "Kuda",
-    "B": "Jerapah",
-    "C": "Zebra",
-    "D": "Gajah"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama alat transportasi di gambar ini?",
-    "gambar": "path_to_transport_image_8.jpg",
-    "jawaban": "Pesawat",
-    "A": "Kapal",
-    "B": "Kereta",
-    "C": "Pesawat",
-    "D": "Mobil"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama peta negara di gambar ini?",
-    "gambar": "path_to_map_image_9.jpg",
-    "jawaban": "Indonesia",
-    "A": "Filipina",
-    "B": "Thailand",
-    "C": "Indonesia",
-    "D": "Malaysia"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama bangunan di gambar ini?",
-    "gambar": "path_to_building_image_10.jpg",
-    "jawaban": "Colosseum",
-    "A": "Colosseum",
-    "B": "Pantheon",
-    "C": "Menara Pisa",
-    "D": "Menara Eiffel"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama buah di gambar ini?",
-    "gambar": "path_to_fruit_image_10.jpg",
-    "jawaban": "Pepaya",
-    "A": "Pepaya",
-    "B": "Nanas",
-    "C": "Durian",
-    "D": "Apel"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama binatang di gambar ini?",
-    "gambar": "path_to_animal_image_10.jpg",
-    "jawaban": "Kuda",
-    "A": "Kuda",
-    "B": "Zebra",
-    "C": "Gajah",
-    "D": "Badak"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama alat transportasi di gambar ini?",
-    "gambar": "path_to_transport_image_9.jpg",
-    "jawaban": "Sepeda",
-    "A": "Motor",
-    "B": "Sepeda",
-    "C": "Mobil",
-    "D": "Kapal"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama bendera negara di gambar ini?",
-    "gambar": "path_to_flag_image_9.jpg",
-    "jawaban": "Kanada",
-    "A": "Kanada",
-    "B": "Inggris",
-    "C": "Australia",
-    "D": "Prancis"
-    },
-    {
-    "kategori": "gambar_pilihan_ganda",
-    "soal": "Apa nama peta negara di gambar ini?",
-    "gambar": "path_to_map_image_10.jpg",
-    "jawaban": "India",
-    "A": "India",
-    "B": "Pakistan",
-    "C": "Bangladesh",
-    "D": "Sri Lanka"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama binatang yang ada di gambar ini?",
-    "gambar": "path_to_animal_image_8.jpg",
-    "jawaban": "Gajah"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama buah yang ada di gambar ini?",
-    "gambar": "path_to_fruit_image_8.jpg",
-    "jawaban": "Mangga"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama bangunan yang ada di gambar ini?",
-    "gambar": "path_to_building_image_8.jpg",
-    "jawaban": "Menara Eiffel"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama alat transportasi yang ada di gambar ini?",
-    "gambar": "path_to_transport_image_7.jpg",
-    "jawaban": "Kereta"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama bendera negara yang ada di gambar ini?",
-    "gambar": "path_to_flag_image_7.jpg",
-    "jawaban": "Jepang"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama peta negara yang ada di gambar ini?",
-    "gambar": "path_to_map_image_8.jpg",
-    "jawaban": "Amerika Serikat"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama binatang yang ada di gambar ini?",
-    "gambar": "path_to_animal_image_9.jpg",
-    "jawaban": "Jerapah"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama buah yang ada di gambar ini?",
-    "gambar": "path_to_fruit_image_9.jpg",
-    "jawaban": "Apel"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama bangunan yang ada di gambar ini?",
-    "gambar": "path_to_building_image_9.jpg",
-    "jawaban": "Taj Mahal"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama alat transportasi yang ada di gambar ini?",
-    "gambar": "path_to_transport_image_8.jpg",
-    "jawaban": "Pesawat"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama bendera negara yang ada di gambar ini?",
-    "gambar": "path_to_flag_image_8.jpg",
-    "jawaban": "Australia"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama peta negara yang ada di gambar ini?",
-    "gambar": "path_to_map_image_9.jpg",
-    "jawaban": "Indonesia"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama binatang yang ada di gambar ini?",
-    "gambar": "path_to_animal_image_10.jpg",
-    "jawaban": "Kuda"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama buah yang ada di gambar ini?",
-    "gambar": "path_to_fruit_image_10.jpg",
-    "jawaban": "Pepaya"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama bangunan yang ada di gambar ini?",
-    "gambar": "path_to_building_image_10.jpg",
-    "jawaban": "Colosseum"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama alat transportasi yang ada di gambar ini?",
-    "gambar": "path_to_transport_image_9.jpg",
-    "jawaban": "Sepeda"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama bendera negara yang ada di gambar ini?",
-    "gambar": "path_to_flag_image_9.jpg",
-    "jawaban": "Kanada"
-    },
-    {
-    "kategori": "gambar_essay",
-    "soal": "Apa nama peta negara yang ada di gambar ini?",
-    "gambar": "path_to_map_image_10.jpg",
-    "jawaban": "India"
+      "kategori": "essay",
+      "soal": "Apa nama unsur kimia dengan simbol 'Ca'?",
+      "jawaban": "Kalsium"
     },
     {
         "kategori": "pilihan_ganda",
@@ -1744,10 +1263,1120 @@
         "B": "Venus",
         "C": "Bumi",
         "D": "Mars"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama hewan terkecil di dunia?",
+        "jawaban": "Katak Paedophryne amauensis",
+        "A": "Katak Paedophryne amauensis",
+        "B": "Kumbang Parasit",
+        "C": "Semut Karibia",
+        "D": "Tikus Pygmy"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang melukis 'The Starry Night'?",
+        "jawaban": "Vincent van Gogh",
+        "A": "Vincent van Gogh",
+        "B": "Pablo Picasso",
+        "C": "Claude Monet",
+        "D": "Leonardo da Vinci"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama mata uang resmi Jepang?",
+        "jawaban": "Yen",
+        "A": "Yen",
+        "B": "Won",
+        "C": "Yuan",
+        "D": "Baht"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama alat musik yang berasal dari Australia yang dikenal sebagai salah satu alat musik tertua di dunia?",
+        "jawaban": "Didgeridoo",
+        "A": "Didgeridoo",
+        "B": "Bagpipe",
+        "C": "Pan Flute",
+        "D": "Bongo"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama tumbuhan yang dikenal sebagai tanaman karnivora?",
+        "jawaban": "Venus Flytrap",
+        "A": "Venus Flytrap",
+        "B": "Nepenthes",
+        "C": "Sundew",
+        "D": "Bladderwort"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa orang pertama yang mendarat di bulan?",
+        "jawaban": "Neil Armstrong",
+        "A": "Neil Armstrong",
+        "B": "Buzz Aldrin",
+        "C": "Yuri Gagarin",
+        "D": "Michael Collins"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama ilmuwan yang menemukan penicillin?",
+        "jawaban": "Alexander Fleming",
+        "A": "Alexander Fleming",
+        "B": "Louis Pasteur",
+        "C": "Robert Koch",
+        "D": "Joseph Lister"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama negara yang memiliki piramida Giza?",
+        "jawaban": "Mesir",
+        "A": "Mesir",
+        "B": "Meksiko",
+        "C": "Peru",
+        "D": "India"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama gas yang digunakan dalam balon udara?",
+        "jawaban": "Helium",
+        "A": "Helium",
+        "B": "Hidrogen",
+        "C": "Oksigen",
+        "D": "Nitrogen"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama gunung tertinggi di Selandia Baru?",
+        "jawaban": "Aoraki/Mount Cook",
+        "A": "Aoraki/Mount Cook",
+        "B": "Mount Ruapehu",
+        "C": "Mount Aspiring",
+        "D": "Mount Ngauruhoe"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama benua yang tidak memiliki negara?",
+        "jawaban": "Antartika",
+        "A": "Antartika",
+        "B": "Arktika",
+        "C": "Oseania",
+        "D": "Eropa"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa penulis novel 'Moby-Dick'?",
+        "jawaban": "Herman Melville",
+        "A": "Herman Melville",
+        "B": "Mark Twain",
+        "C": "Nathaniel Hawthorne",
+        "D": "Jules Verne"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama pulau terbesar di dunia?",
+        "jawaban": "Greenland",
+        "A": "Greenland",
+        "B": "New Guinea",
+        "C": "Borneo",
+        "D": "Madagascar"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang menemukan hukum gravitasi?",
+        "jawaban": "Isaac Newton",
+        "A": "Isaac Newton",
+        "B": "Galileo Galilei",
+        "C": "Albert Einstein",
+        "D": "Nicolaus Copernicus"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama negara terkecil di dunia?",
+        "jawaban": "Vatikan",
+        "A": "Vatikan",
+        "B": "Monaco",
+        "C": "San Marino",
+        "D": "Liechtenstein"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang diilustrasikan oleh pola unik di gambar ini?",
+        "gambar": "assets/image/FRAKTAL.png",
+        "jawaban": "Fraktal alam",
+        "A": "Artefak digital",
+        "B": "Poligon acak",
+        "C": "Fraktal alam",
+        "D": "Simetri lingkaran"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang kemungkinan menjadi asal mula pola jejak kaki ini?",
+        "gambar": "assets/image/HEWAN.PNG",
+        "jawaban": "Hewan prasejarah",
+        "A": "Hewan prasejarah",
+        "B": "Manusia kuno",
+        "C": "Rekayasa genetik",
+        "D": "Makhluk mitologi"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Teknik apa yang digunakan untuk menciptakan efek visual pada gambar ini?",
+        "gambar": "assets/image/ANAMORFOSIS.jpeg",
+        "jawaban": "Anamorfosis",
+        "A": "Stensil",
+        "B": "Anamorfosis",
+        "C": "Kolase",
+        "D": "Lithografi"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Bentuk awan di gambar ini menyerupai apa?",
+        "gambar": "assets/image/NAGA.jpg",
+        "jawaban": "Naga",
+        "A": "Naga",
+        "B": "Kapal",
+        "C": "Ikan paus",
+        "D": "Pulau"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menjadi inspirasi dari arsitektur unik di gambar ini?",
+        "gambar": "assets/image/LAUT.webp",
+        "jawaban": "Organisme laut",
+        "A": "Guilloche",
+        "B": "Kubisme",
+        "C": "Pesawat luar angkasa",
+        "D": "Organisme laut"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apakah benda misterius yang ditemukan di dasar laut pada gambar ini?",
+        "gambar": "assets/image/KUNO.jpg",
+        "jawaban": "Konstruksi kuno",
+        "A": "Meteorit",
+        "B": "Kapak batu",
+        "C": "Batuan alam",
+        "D": "Konstruksi kuno"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Siapakah atau apakah yang diwakili oleh bayangan aneh di gambar ini?",
+        "gambar": "assets/image/PATUNG.jpg",
+        "jawaban": "Patung",
+        "A": "Manusia",
+        "B": "Patung",
+        "C": "Hewan",
+        "D": "Bayangan pepohonan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat pada gambar ini jika dilihat dari perspektif terbalik?",
+        "gambar": "assets/image/WAJAH.jpeg",
+        "jawaban": "Wajah manusia",
+        "A": "Bunga",
+        "B": "Pola geometris",
+        "C": "Wajah manusia",
+        "D": "Burung"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa kemungkinan asal usul lukisan dinding prasejarah ini?",
+        "gambar": "assets/image/RITUAL.jpeg",
+        "jawaban": "Ritual spiritual",
+        "A": "Ritual spiritual",
+        "B": "Pencatatan sejarah",
+        "C": "Penghormatan pada hewan",
+        "D": "Ilustrasi peta"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apakah benda langka yang tampak dalam gambar ini?",
+        "gambar": "assets/image/METEOR.jpg",
+        "jawaban": "Meteor Langka",
+        "A": "Kristal Raksasa",
+        "B": "Peninggalan Kuno",
+        "C": "Artefak Alien",
+        "D": "Meteor Langka"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tidak biasa pada pola alam yang ditemukan di gambar ini?",
+        "gambar": "assets/image/ALAM.jpg",
+        "jawaban": "Simetri sempurna",
+        "A": "Simetri sempurna",
+        "B": "Asimetri liar",
+        "C": "Warna tak wajar",
+        "D": "Efek optik"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tampak menyerupai hewan yang terlihat di pola keramik ini?",
+        "gambar": "assets/image/GAJAH.jpeg",
+        "jawaban": "Gajah",
+        "A": "Kuda",
+        "B": "Ular",
+        "C": "Gajah",
+        "D": "Burung"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apakah makna di balik simbol misterius yang ditemukan di batu ini?",
+        "gambar": "assets/image/KODE.webp",
+        "jawaban": "Kode kuno",
+        "A": "Kode kuno",
+        "B": "Peta harta karun",
+        "C": "Penanda astronomi",
+        "D": "Artefak religius"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menggambarkan bayangan aneh pada gambar ini?",
+        "gambar": "assets/image/BAYANGAN.jpg",
+        "jawaban": "Ilusi optik",
+        "A": "Refleksi",
+        "B": "Ilusi optik",
+        "C": "Interferensi cahaya",
+        "D": "Distorsi lensa"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Jenis tumbuhan apa yang membentuk pola simetris dalam gambar ini?",
+        "gambar": "assets/image/PAKIS.jpg",
+        "jawaban": "Pakis",
+        "A": "Pakis",
+        "B": "Kaktus",
+        "C": "Anggrek",
+        "D": "Bambu"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menginspirasi desain furnitur unik di gambar ini?",
+        "gambar": "assets/image/CAHAYA.jpg",
+        "jawaban": "Jalur cahaya",
+        "A": "Garis gelombang",
+        "B": "Jalur cahaya",
+        "C": "Motif hutan",
+        "D": "Garis bayangan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Teknik seni apa yang digunakan untuk membuat lukisan abstrak di gambar ini?",
+        "gambar": "assets/image/LUKIS.jpeg",
+        "jawaban": "Aksi melukis",
+        "A": "Titikisme",
+        "B": "Kubisme",
+        "C": "Aksi melukis",
+        "D": "Surealisme"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tampak mengelilingi matahari dalam gambar ini?",
+        "gambar": "assets/image/ES.webp",
+        "jawaban": "Halo es",
+        "A": "Aura energi",
+        "B": "Halo es",
+        "C": "Awan stratosfer",
+        "D": "Pembiasan atmosfer"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tampak tidak sesuai pada refleksi dalam cermin di gambar ini?",
+        "gambar": "assets/image/BAYANGAN2.jpeg",
+        "jawaban": "Bayangan ganda",
+        "A": "Warna cermin",
+        "B": "Bayangan ganda",
+        "C": "Distorsi objek",
+        "D": "Ilusi perspektif"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin memengaruhi formasi batuan unik dalam gambar ini?",
+        "gambar": "assets/image/ERUPSI.jpg",
+        "jawaban": "Erupsi vulkanik kuno",
+        "A": "Erupsi vulkanik kuno",
+        "B": "Erosi angin",
+        "C": "Kegiatan tektonik",
+        "D": "Pembekuan lava"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tampak tidak biasa dalam konstruksi bangunan ini?",
+        "gambar": "assets/image/SUDUT.webp",       
+        "jawaban": "Sudut yang tidak mungkin",
+        "A": "Garis lurus",
+        "B": "Jendela melayang",
+        "C": "Bentuk organik",
+        "D": "Sudut yang tidak mungkin"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa nama bangunan bersejarah di gambar ini?",
+        "gambar": "assets/image/MACHU.jpg",
+        "jawaban": "Machu Picchu",
+        "A": "Machu Picchu",
+        "B": "Angkor Wat",
+        "C": "Colosseum",
+        "D": "Great Wall"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa nama objek luar angkasa di gambar ini?",
+        "gambar": "assets/image/NEBULA.jpeg",
+        "jawaban": "Nebula",
+        "A": "Planet",
+        "B": "Asteroid",
+        "C": "Nebula",
+        "D": "Komet"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa nama karakter fiksi di gambar ini?",
+        "gambar": "assets/image/HARRY.jpeg",
+        "jawaban": "Harry Potter",
+        "A": "Frodo Baggins",
+        "B": "Sherlock Holmes",
+        "C": "James Bond",
+        "D": "Harry Potter"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat seperti kilatan cahaya pada air dalam gambar ini?",
+        "gambar": "assets/image/BIOLUMENENSI.jpeg",
+        "jawaban": "Bioluminesensi",
+        "A": "Refleksi bulan",
+        "B": "Kilat petir",
+        "C": "Bioluminesensi",
+        "D": "Cahaya aurora"
+    },
+    {
+        "kategori": "logo_produk",
+        "soal": "Apa nama produk berdasarkan logo di gambar ini?",
+        "gambar": "assets/image/ROLEX.jpg",
+        "jawaban": "ROLEX",
+        "A": "GUCCI",
+        "B": "ROLEX",
+        "C": "H&M",
+        "D": "CHANEL"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa nama cryptocurrency atau mata uang digital terdesentralisasi ini??",
+        "gambar": "assets/image/BITCOIN.webp",
+        "jawaban": "Bitcoin",
+        "A": "Ethereum",
+        "B": "NFT",
+        "C": "XRP",
+        "D": "Bitcoin"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Berapa hasil dari soal Cryptarithm dibawah?",
+        "gambar": "assets/image/DAD.png",
+        "jawaban": "121",
+        "A": "191",
+        "B": "112",
+        "C": "121",
+        "D": "119"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tidak biasa dalam teknik melukis pada gambar ini?",
+        "gambar": "path_to_image_31.jpg",
+        "jawaban": "Palet warna terbalik",
+        "A": "Palet warna terbalik",
+        "B": "Garis halus",
+        "C": "Lukisan kuas datar",
+        "D": "Pola titik"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menciptakan pola simetris dalam cahaya pada gambar ini?",
+        "gambar": "path_to_image_32.jpg",
+        "jawaban": "Difraksi cahaya",
+        "A": "Difraksi cahaya",
+        "B": "Pencahayaan spiral",
+        "C": "Lensa prisma",
+        "D": "Ilusi optik"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin ditemukan pada batu misterius ini?",
+        "gambar": "path_to_image_33.jpg",
+        "jawaban": "Fosil prasejarah",
+        "A": "Fosil prasejarah",
+        "B": "Tulang hewan",
+        "C": "Kerangka manusia",
+        "D": "Peta bintang"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menciptakan kilau aneh pada air di gambar ini?",
+        "gambar": "path_to_image_34.jpg",
+        "jawaban": "Cahaya bulan",
+        "A": "Refleksi lampu kota",
+        "B": "Aurora borealis",
+        "C": "Cahaya bulan",
+        "D": "Fosfor cahaya"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang bisa menjelaskan pola simetri tak biasa pada pohon di gambar ini?",
+        "gambar": "path_to_image_35.jpg",
+        "jawaban": "Mikroba simbiosis",
+        "A": "Mutasi genetik",
+        "B": "Efek radiasi",
+        "C": "Mikroba simbiosis",
+        "D": "Kontaminasi tanah"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menjadi asal usul lukisan dinding yang unik ini?",
+        "gambar": "path_to_image_36.jpg",
+        "jawaban": "Kisah mitologi",
+        "A": "Kisah mitologi",
+        "B": "Upacara ritual",
+        "C": "Catatan peristiwa",
+        "D": "Perburuan hewan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat seperti hewan di antara bintang-bintang dalam gambar ini?",
+        "gambar": "path_to_image_37.jpg",
+        "jawaban": "Burung",
+        "A": "Burung",
+        "B": "Ikan",
+        "C": "Kuda",
+        "D": "Serangga"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin tersembunyi di balik cahaya dalam gambar ini?",
+        "gambar": "path_to_image_38.jpg",
+        "jawaban": "Gerhana matahari",
+        "A": "Gerhana matahari",
+        "B": "Nebula",
+        "C": "Komet",
+        "D": "Bintang supernova"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menciptakan ilusi dalam air pada gambar ini?",
+        "gambar": "path_to_image_39.jpg",
+        "jawaban": "Efek lensa air",
+        "A": "Refleksi objek",
+        "B": "Efek lensa air",
+        "C": "Interferensi gelombang",
+        "D": "Pembiasan cahaya"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang membuat pohon ini terlihat seolah-olah sedang bergerak?",
+        "gambar": "path_to_image_40.jpg",
+        "jawaban": "Angin kencang",
+        "A": "Gempa bumi",
+        "B": "Angin kencang",
+        "C": "Efek optik",
+        "D": "Akar longgar"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tidak biasa tentang pola kristal yang terbentuk dalam gambar ini?",
+        "gambar": "path_to_image_41.jpg",
+        "jawaban": "Simetri segi enam",
+        "A": "Simetri segi enam",
+        "B": "Asimetri garis",
+        "C": "Distorsi sudut",
+        "D": "Interferensi warna"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tampak tidak biasa pada pola hujan yang tertangkap di gambar ini?",
+        "gambar": "path_to_image_42.jpg",
+        "jawaban": "Cahaya matahari terfokus",
+        "A": "Cahaya bulan",
+        "B": "Awan yang hilang",
+        "C": "Cahaya matahari terfokus",
+        "D": "Kilatan petir"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menciptakan refleksi yang aneh pada kaca dalam gambar ini?",
+        "gambar": "path_to_image_43.jpg",
+        "jawaban": "Cahaya terpecah",
+        "A": "Objek di balik kaca",
+        "B": "Efek distorsi kaca",
+        "C": "Cahaya terpecah",
+        "D": "Ilusi perspektif"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menciptakan pola berputar dalam kabut pada gambar ini?",
+        "gambar": "path_to_image_44.jpg",
+        "jawaban": "Angin turbulensi",
+        "A": "Efek cahaya",
+        "B": "Angin turbulensi",
+        "C": "Efek gelombang suara",
+        "D": "Pergerakan awan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menyebabkan warna aneh pada daun-daun di gambar ini?",
+        "gambar": "path_to_image_45.jpg",
+        "jawaban": "Perubahan musim",
+        "A": "Mutasi genetik",
+        "B": "Kontaminasi tanah",
+        "C": "Perubahan musim",
+        "D": "Efek cahaya"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menyebabkan pola erosi unik pada batu di gambar ini?",
+        "gambar": "path_to_image_46.jpg",
+        "jawaban": "Aliran air bawah tanah",
+        "A": "Aliran air bawah tanah",
+        "B": "Pengaruh angin",
+        "C": "Gerakan tektonik",
+        "D": "Pembekuan es"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tidak biasa tentang warna langit saat senja pada gambar ini?",
+        "gambar": "path_to_image_47.jpg",
+        "jawaban": "Efek polusi udara",
+        "A": "Refleksi laut",
+        "B": "Efek polusi udara",
+        "C": "Pola awan langka",
+        "D": "Interferensi cahaya"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menginspirasi bentuk hewan dalam seni pasir pada gambar ini?",
+        "gambar": "path_to_image_48.jpg",
+        "jawaban": "Legenda lokal",
+        "A": "Hewan nyata",
+        "B": "Mutasi genetik",
+        "C": "Legenda lokal",
+        "D": "Fantasi ilmiah"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa pada permukaan air dalam gambar ini?",
+        "gambar": "path_to_image_49.jpg",
+        "jawaban": "Gelombang tak wajar",
+        "A": "Batu di bawahnya",
+        "B": "Refleksi pohon",
+        "C": "Gelombang tak wajar",
+        "D": "Warna langit"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menjadi asal usul pola warna-warni dalam es di gambar ini?",
+        "gambar": "path_to_image_50.jpg",
+        "jawaban": "Refleksi kristal",
+        "A": "Refleksi kristal",
+        "B": "Efek cahaya matahari",
+        "C": "Pencampuran mineral",
+        "D": "Pembiasan warna"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tidak biasa tentang jejak kaki yang terlihat di pasir pada gambar ini?",
+        "gambar": "path_to_image_51.jpg",
+        "jawaban": "Ukuran besar",
+        "A": "Ukuran besar",
+        "B": "Jumlah banyak",
+        "C": "Arah acak",
+        "D": "Pola berulang"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menciptakan ilusi bentuk wajah dalam bayangan pada gambar ini?",
+        "gambar": "path_to_image_52.jpg",
+        "jawaban": "Bayangan pohon",
+        "A": "Distorsi lensa",
+        "B": "Refleksi air",
+        "C": "Bayangan pohon",
+        "D": "Efek cahaya"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menciptakan ilusi gerakan pada awan di gambar ini?",
+        "gambar": "path_to_image_53.jpg",
+        "jawaban": "Efek angin",
+        "A": "Pembiasan cahaya",
+        "B": "Efek angin",
+        "C": "Pergerakan atmosfer",
+        "D": "Refleksi langit"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tidak biasa tentang refleksi di danau dalam gambar ini?",
+        "gambar": "path_to_image_54.jpg",
+        "jawaban": "Refleksi terbalik",
+        "A": "Distorsi warna",
+        "B": "Kedalaman air",
+        "C": "Refleksi terbalik",
+        "D": "Bayangan objek"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menjadi asal usul batu besar yang tergantung di gambar ini?",
+        "gambar": "path_to_image_55.jpg",
+        "jawaban": "Erupsi gunung berapi",
+        "A": "Pergeseran tanah",
+        "B": "Erupsi gunung berapi",
+        "C": "Gempa bumi",
+        "D": "Gerakan glasial"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menciptakan pola geometris di dalam tanaman pada gambar ini?",
+        "gambar": "path_to_image_56.jpg",
+        "jawaban": "Genetika tanaman",
+        "A": "Serangga",
+        "B": "Genetika tanaman",
+        "C": "Pengaruh cuaca",
+        "D": "Kontaminasi tanah"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menyebabkan bayangan panjang pada gambar ini?",
+        "gambar": "path_to_image_57.jpg",
+        "jawaban": "Posisi matahari",
+        "A": "Kaca pembesar",
+        "B": "Distorsi lensa",
+        "C": "Posisi matahari",
+        "D": "Efek pencahayaan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat seperti makhluk laut di dasar sungai pada gambar ini?",
+        "gambar": "path_to_image_58.jpg",
+        "jawaban": "Kerangka ikan",
+        "A": "Cangkang kerang",
+        "B": "Kerangka ikan",
+        "C": "Tumbuhan air",
+        "D": "Hewan purba"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang membuat pepohonan di gambar ini tampak lebih besar dari biasanya?",
+        "gambar": "path_to_image_59.jpg",
+        "jawaban": "Ilusi perspektif",
+        "A": "Mutasi genetik",
+        "B": "Pertumbuhan cepat",
+        "C": "Ilusi perspektif",
+        "D": "Pembiasan cahaya"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menjadi asal usul benda terbang dalam gambar ini?",
+        "gambar": "path_to_image_60.jpg",
+        "jawaban": "Balon udara panas",
+        "A": "Meteor",
+        "B": "Saturnus",
+        "C": "Balon udara panas",
+        "D": "Satelit"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat seperti ukiran di dinding gua dalam gambar ini?",
+        "gambar": "path_to_image_61.jpg",
+        "jawaban": "Gambar prasejarah",
+        "A": "Gambar prasejarah",
+        "B": "Formasi batuan alami",
+        "C": "Cahaya dan bayangan",
+        "D": "Ilusi optik"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang membuat refleksi di kaca terlihat seperti lukisan pada gambar ini?",
+        "gambar": "path_to_image_62.jpg",
+        "jawaban": "Tekstur kaca",
+        "A": "Ilusi perspektif",
+        "B": "Distorsi lensa",
+        "C": "Tekstur kaca",
+        "D": "Efek bayangan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa tentang struktur bangunan dalam gambar ini?",
+        "gambar": "path_to_image_63.jpg",
+        "jawaban": "Sudut tidak mungkin",
+        "A": "Lantai transparan",
+        "B": "Sudut tidak mungkin",
+        "C": "Efek bayangan",
+        "D": "Distorsi ukuran"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menyebabkan warna aneh pada bebatuan di gambar ini?",
+        "gambar": "path_to_image_64.jpg",
+        "jawaban": "Mineral beraneka warna",
+        "A": "Lumut",
+        "B": "Mineral beraneka warna",
+        "C": "Pencemaran lingkungan",
+        "D": "Cahaya ultraviolet"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menjadi asal usul pola mosaik di tanah pada gambar ini?",
+        "gambar": "path_to_image_65.jpg",
+        "jawaban": "Retakan akibat kekeringan",
+        "A": "Pengaruh manusia",
+        "B": "Pembekuan es",
+        "C": "Retakan akibat kekeringan",
+        "D": "Pengaruh hewan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa tentang refleksi di air pada gambar ini?",
+        "gambar": "path_to_image_66.jpg",
+        "jawaban": "Refleksi terbalik",
+        "A": "Refleksi terbalik",
+        "B": "Pembiasan cahaya",
+        "C": "Distorsi warna",
+        "D": "Gelembung air"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menyebabkan fenomena langka pada langit dalam gambar ini?",
+        "gambar": "path_to_image_67.jpg",
+        "jawaban": "Awan mammatus",
+        "A": "Hujan meteor",
+        "B": "Awan mammatus",
+        "C": "Pembiasan cahaya",
+        "D": "Angin kencang"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tampak seperti benda asing yang terletak di permukaan batu dalam gambar ini?",
+        "gambar": "path_to_image_68.jpg",
+        "jawaban": "Artefak sejarah",
+        "A": "Mineral langka",
+        "B": "Artefak sejarah",
+        "C": "Jejak kaki",
+        "D": "Fosil tanaman"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menjadi asal usul pola unik pada kaca jendela di gambar ini?",
+        "gambar": "path_to_image_69.jpg",
+        "jawaban": "Tekanan suhu",
+        "A": "Distorsi cahaya",
+        "B": "Pengaruh kimia",
+        "C": "Tekanan suhu",
+        "D": "Efek bayangan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa tentang garis di cakrawala pada gambar ini?",
+        "gambar": "path_to_image_70.jpg",
+        "jawaban": "Penyimpangan perspektif",
+        "A": "Pengaruh atmosfer",
+        "B": "Penyimpangan perspektif",
+        "C": "Efek cahaya",
+        "D": "Objek terbang"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menyebabkan pembiasan warna pada awan dalam gambar ini?",
+        "gambar": "path_to_image_71.jpg",
+        "jawaban": "Cahaya matahari",
+        "A": "Cahaya matahari",
+        "B": "Partikel es",
+        "C": "Interferensi cahaya",
+        "D": "Polusi udara"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa tentang pola ombak di pantai pada gambar ini?",
+        "gambar": "path_to_image_72.jpg",
+        "jawaban": "Gelombang tidak simetris",
+        "A": "Gelombang tidak simetris",
+        "B": "Pantulan cahaya",
+        "C": "Batu di bawah air",
+        "D": "Pola pasir"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menyebabkan warna terang pada bunga dalam gambar ini?",
+        "gambar": "path_to_image_73.jpg",
+        "jawaban": "Polinasi",
+        "A": "Kontaminasi tanah",
+        "B": "Efek cahaya",
+        "C": "Polinasi",
+        "D": "Mutasi genetik"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tampak seperti bentuk hewan yang terbentuk dari bebatuan di gambar ini?",
+        "gambar": "path_to_image_74.jpg",
+        "jawaban": "Kuda",
+        "A": "Burung",
+        "B": "Kura-kura",
+        "C": "Kuda",
+        "D": "Ikan paus"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa tentang pola pelangi pada gambar ini?",
+        "gambar": "path_to_image_75.jpg",
+        "jawaban": "Pembiasan ganda",
+        "A": "Pola garis lurus",
+        "B": "Efek bayangan",
+        "C": "Pembiasan ganda",
+        "D": "Warna yang hilang"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menyebabkan pola aneh pada pasir dalam gambar ini?",
+        "gambar": "path_to_image_76.jpg",
+        "jawaban": "Angin kencang",
+        "A": "Gerakan air",
+        "B": "Kontaminasi tanah",
+        "C": "Angin kencang",
+        "D": "Aliran lava"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tidak biasa tentang tekstur kulit pohon pada gambar ini?",
+        "gambar": "path_to_image_77.jpg",
+        "jawaban": "Efek pertumbuhan",
+        "A": "Efek pertumbuhan",
+        "B": "Mutasi genetik",
+        "C": "Kerusakan oleh serangga",
+        "D": "Pengaruh cuaca"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menyebabkan pola simetris pada es dalam gambar ini?",
+        "gambar": "path_to_image_78.jpg",
+        "jawaban": "Pembekuan cepat",
+        "A": "Kristalisasi mineral",
+        "B": "Pembekuan cepat",
+        "C": "Pengaruh angin",
+        "D": "Kontaminasi air"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat seperti simbol dalam batu karang di gambar ini?",
+        "gambar": "path_to_image_79.jpg",
+        "jawaban": "Petroglyph",
+        "A": "Kristal alami",
+        "B": "Lava mengeras",
+        "C": "Petroglyph",
+        "D": "Jejak kaki hewan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menciptakan ilusi optik pada jendela dalam gambar ini?",
+        "gambar": "path_to_image_80.jpg",
+        "jawaban": "Distorsi lensa",
+        "A": "Efek cahaya",
+        "B": "Kaca berwarna",
+        "C": "Distorsi lensa",
+        "D": "Pembiasan cahaya"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tampak seperti ukiran aneh di pohon dalam gambar ini?",
+        "gambar": "path_to_image_81.jpg",
+        "jawaban": "Efek pertumbuhan",
+        "A": "Hewan yang tidak biasa",
+        "B": "Efek pertumbuhan",
+        "C": "Kerusakan oleh cuaca",
+        "D": "Jejak kaki manusia"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menyebabkan warna tidak biasa pada langit malam di gambar ini?",
+        "gambar": "path_to_image_82.jpg",
+        "jawaban": "Partikel di atmosfer",
+        "A": "Polusi cahaya",
+        "B": "Partikel di atmosfer",
+        "C": "Interferensi gelombang",
+        "D": "Refleksi bulan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tidak biasa tentang refleksi di danau pada gambar ini?",
+        "gambar": "path_to_image_83.jpg",
+        "jawaban": "Pembiasan warna",
+        "A": "Pembiasan warna",
+        "B": "Objek di bawah air",
+        "C": "Distorsi cahaya",
+        "D": "Efek bayangan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menciptakan ilusi kedalaman pada gambar ini?",
+        "gambar": "path_to_image_84.jpg",
+        "jawaban": "Pengaruh bayangan",
+        "A": "Pembiasan cahaya",
+        "B": "Tekstur permukaan",
+        "C": "Pengaruh bayangan",
+        "D": "Efek perspektif"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menjadi asal usul pola garis pada daun di gambar ini?",
+        "gambar": "path_to_image_85.jpg",
+        "jawaban": "Mutasi genetik",
+        "A": "Pengaruh cahaya",
+        "B": "Kontaminasi tanah",
+        "C": "Mutasi genetik",
+        "D": "Serangan hama"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa tentang jejak kaki di salju pada gambar ini?",
+        "gambar": "path_to_image_86.jpg",
+        "jawaban": "Pola tak biasa",
+        "A": "Pola tak biasa",
+        "B": "Jumlah banyak",
+        "C": "Ukuran besar",
+        "D": "Arah berlawanan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menyebabkan warna cerah pada batu di gambar ini?",
+        "gambar": "path_to_image_87.jpg",
+        "jawaban": "Pembiasan cahaya",
+        "A": "Kontaminasi mineral",
+        "B": "Pengaruh cuaca",
+        "C": "Pembiasan cahaya",
+        "D": "Efek bayangan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa tentang pola dedaunan dalam gambar ini?",
+        "gambar": "path_to_image_88.jpg",
+        "jawaban": "Pembiasan cahaya",
+        "A": "Pengaruh angin",
+        "B": "Mutasi genetik",
+        "C": "Pembiasan cahaya",
+        "D": "Pengaruh air"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menciptakan ilusi jarak pada pegunungan di gambar ini?",
+        "gambar": "path_to_image_89.jpg",
+        "jawaban": "Efek perspektif",
+        "A": "Pembiasan cahaya",
+        "B": "Efek perspektif",
+        "C": "Distorsi atmosfer",
+        "D": "Pengaruh bayangan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa tentang warna air terjun di gambar ini?",
+        "gambar": "path_to_image_90.jpg",
+        "jawaban": "Pembiasan cahaya",
+        "A": "Kontaminasi air",
+        "B": "Pembiasan cahaya",
+        "C": "Pengaruh cuaca",
+        "D": "Cahaya bulan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menjadi asal usul pola garis pada salju di gambar ini?",
+        "gambar": "path_to_image_91.jpg",
+        "jawaban": "Angin kencang",
+        "A": "Aliran air",
+        "B": "Kontaminasi tanah",
+        "C": "Angin kencang",
+        "D": "Pergerakan hewan"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa tentang pola pasir di pantai pada gambar ini?",
+        "gambar": "path_to_image_92.jpg",
+        "jawaban": "Pola gelombang",
+        "A": "Refleksi cahaya",
+        "B": "Pola gelombang",
+        "C": "Pengaruh air",
+        "D": "Efek angin"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menciptakan ilusi bentuk geometris di permukaan air pada gambar ini?",
+        "gambar": "path_to_image_93.jpg",
+        "jawaban": "Pembiasan cahaya",
+        "A": "Aliran air",
+        "B": "Pembiasan cahaya",
+        "C": "Efek bayangan",
+        "D": "Interferensi gelombang"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menjadi asal usul bentuk aneh pada batu di gambar ini?",
+        "gambar": "path_to_image_94.jpg",
+        "jawaban": "Erosi angin",
+        "A": "Aktivitas vulkanik",
+        "B": "Erosi angin",
+        "C": "Pembentukan mineral",
+        "D": "Pengaruh air"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang tampak tidak biasa tentang refleksi di sungai pada gambar ini?",
+        "gambar": "path_to_image_95.jpg",
+        "jawaban": "Refleksi terbalik",
+        "A": "Gelembung di air",
+        "B": "Refleksi terbalik",
+        "C": "Pembiasan cahaya",
+        "D": "Distorsi warna"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa tentang warna rumput dalam gambar ini?",
+        "gambar": "path_to_image_96.jpg",
+        "jawaban": "Pengaruh cahaya",
+        "A": "Kontaminasi tanah",
+        "B": "Mutasi genetik",
+        "C": "Pengaruh cahaya",
+        "D": "Efek polusi"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menyebabkan pola simetris pada pohon dalam gambar ini?",
+        "gambar": "path_to_image_97.jpg",
+        "jawaban": "Angin kencang",
+        "A": "Angin kencang",
+        "B": "Mutasi genetik",
+        "C": "Efek pencahayaan",
+        "D": "Pengaruh air"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang mungkin menjadi asal usul warna aneh pada daun di gambar ini?",
+        "gambar": "path_to_image_98.jpg",
+        "jawaban": "Mutasi genetik",
+        "A": "Pengaruh cuaca",
+        "B": "Kontaminasi tanah",
+        "C": "Mutasi genetik",
+        "D": "Polusi udara"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang menciptakan ilusi bentuk wajah pada permukaan batu dalam gambar ini?",
+        "gambar": "path_to_image_99.jpg",
+        "jawaban": "Erosi alami",
+        "A": "Ukiran manusia",
+        "B": "Erosi alami",
+        "C": "Pengaruh cuaca",
+        "D": "Pembiasan cahaya"
+    },
+    {
+        "kategori": "gambar_pilihan_ganda",
+        "soal": "Apa yang terlihat tidak biasa tentang refleksi di jendela pada gambar ini?",
+        "gambar": "path_to_image_100.jpg",
+        "jawaban": "Pembiasan cahaya",
+        "A": "Efek bayangan",
+        "B": "Pembiasan cahaya",
+        "C": "Kaca berwarna",
+        "D": "Distorsi lensa"
     }
-    ]
-      
-  
 ]
-}
-    
