@@ -1,0 +1,1753 @@
+{
+    "soal_quiz": [
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa ibu kota Indonesia?",
+    "jawaban": "Jakarta",
+    "A": "Surabaya",
+    "B": "Bandung",
+    "C": "Yogyakarta",
+    "D": "Bali"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa ibu kota Jepang?",
+    "jawaban": "Tokyo"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah hewan apa?",
+    "gambar_url": "https://example.com/images/lion.png",
+    "jawaban": "Singa",
+    "A": "Harimau",
+    "B": "Macan Tutul",
+    "C": "Cheetah",
+    "D": "Singa"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah buah apa?",
+    "gambar_url": "https://example.com/images/apple.png",
+    "jawaban": "Apel"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Siapa presiden pertama Indonesia?",
+    "jawaban": "Soekarno",
+    "A": "Suharto",
+    "B": "Habibie",
+    "C": "Gus Dur",
+    "D": "Soekarno"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa warna langit pada siang hari?",
+    "jawaban": "Biru"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah alat musik apa?",
+    "gambar_url": "https://example.com/images/guitar.png",
+    "jawaban": "Gitar",
+    "A": "Biola",
+    "B": "Piano",
+    "C": "Gitar",
+    "D": "Drum"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah jenis kendaraan apa?",
+    "gambar_url": "https://example.com/images/car.png",
+    "jawaban": "Mobil"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa mata uang resmi Jepang?",
+    "pilihan": ["Yen", "Dollar", "Rupiah", "Won"],
+    "jawaban": "Yen",
+    "A": "Yen",
+    "B": "Rupiah",
+    "C": "Won",
+    "D": "Dollar"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Berapa jumlah warna dalam pelangi?",
+    "jawaban": "Tujuh"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah gedung apa?",
+    "gambar_url": "https://example.com/images/taj-mahal.png",
+    "jawaban": "Taj Mahal",
+    "A": "Taj Mahal",
+    "B": "Piramida",
+    "C": "Colosseum",
+    "D": "Menara Eiffel"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah binatang apa?",
+    "gambar_url": "https://example.com/images/tiger.png",
+    "jawaban": "Harimau"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa lambang dari bilangan pi?",
+    "jawaban": "π",
+    "A": "α",
+    "B": "β",
+    "C": "θ",
+    "D": "π"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa ibu kota Inggris?",
+    "jawaban": "London"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah planet apa?",
+    "gambar_url": "https://example.com/images/mars.png",
+    "jawaban": "Mars",
+    "A": "Bumi",
+    "B": "Venus",
+    "C": "Mars",
+    "D": "Jupiter"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah monumen apa?",
+    "gambar_url": "https://example.com/images/statue-of-liberty.png",
+    "jawaban": "Patung Liberty"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa simbol kimia untuk air?",
+    "jawaban": "H2O",
+    "A": "O2",
+    "B": "CO2",
+    "C": "N2",
+    "D": "H2O"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Siapa penulis Harry Potter?",
+    "jawaban": "J.K. Rowling"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah bangunan apa?",
+    "gambar_url": "https://example.com/images/eiffel-tower.png",
+    "jawaban": "Menara Eiffel",
+    "A": "Big Ben",
+    "B": "Empire State Building",
+    "C": "Menara Eiffel",
+    "D": "Bujr Khalifa"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah pohon apa?",
+    "gambar_url": "https://example.com/images/palm-tree.png",
+    "jawaban": "Pohon Kelapa"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Siapa penemu bola lampu?",
+    "jawaban": "Thomas Edison",
+    "A": "Thomas Edison",
+    "B": "Nikola Tesla",
+    "C": "Albert Einstein",
+    "D": "Alexander Graham Bell"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa yang digunakan untuk menulis di papan tulis?",
+    "jawaban": "Kapur"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah alat tulis apa?",
+    "gambar_url": "https://example.com/images/pencil.png",
+    "jawaban": "Pensil",
+    "A": "Pulpen",
+    "B": "Pensil",
+    "C": "Kuas",
+    "D": "Penghapus"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah buah apa?",
+    "gambar_url": "https://example.com/images/orange.png",
+    "jawaban": "Jeruk"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa mata uang Amerika Serikat?",
+    "jawaban": "Dollar",
+    "A": "Dollar",
+    "B": "Pound",
+    "C": "Yen",
+    "D": "Rupiah"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa warna bendera Indonesia?",
+    "jawaban": "Merah dan Putih"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah makanan apa?",
+    "gambar_url": "https://example.com/images/pizza.png",
+    "jawaban": "Pizza",
+    "A": "Burger",
+    "B": "Hotdog",
+    "C": "Pizza",
+    "D": "Spaghetti"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah hewan air apa?",
+    "gambar_url": "https://example.com/images/dolphin.png",
+    "jawaban": "Lumba-lumba"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa planet terdekat dengan Matahari?",
+    "jawaban": "Merkurius",
+    "A": "Venus",
+    "B": "Merkurius",
+    "C": "Mars",
+    "D": "Jupiter"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa yang digunakan untuk mengikat benda?",
+    "jawaban": "Tali"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah bendera negara apa?",
+    "gambar_url": "https://example.com/images/flag-brazil.png",
+    "jawaban": "Brasil",
+    "A": "Brasil",
+    "B": "Portugal",
+    "C": "Spanyol",
+    "D": "Italia"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah jenis kendaraan apa?",
+    "gambar_url": "https://example.com/images/bicycle.png",
+    "jawaban": "Sepeda"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa nama ibu kota Thailand?",
+    "pilihan": ["Bangkok", "Hanoi", "Yangon", "Kuala Lumpur"],
+    "jawaban": "Bangkok",
+    "A": "Hanoi",
+    "B": "Yangon",
+    "C": "Kuala Lumpur",
+    "D": "Manila"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa warna daun?",
+    "jawaban": "Hijau"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah alat transportasi apa?",
+    "gambar_url": "https://example.com/images/airplane.png",
+    "jawaban": "Pesawat",
+    "A": "Kapal",
+    "B": "Kereta",
+    "C": "Bus",
+    "D": "Pesawat"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah peralatan makan apa?",
+    "gambar_url": "https://example.com/images/spoon.png",
+    "jawaban": "Sendok"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa simbol kimia untuk besi?",
+    "jawaban": "Fe",
+    "A": "Fe",
+    "B": "Ag",
+    "C": "Au",
+    "D": "Pb"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa ibu kota Rusia?",
+    "jawaban": "Moskow"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah buah apa?",
+    "gambar_url": "https://example.com/images/strawberry.png",
+    "jawaban": "Strawberry",
+    "A": "Raspberry",
+    "B": "Blueberry",
+    "C": "Blackberry",
+    "D": "Strawberry"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah gedung apa?",
+    "gambar_url": "https://example.com/images/colosseum.png",
+    "jawaban": "Colosseum"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Siapa penemu telepon?",
+    "jawaban": "Alexander Graham Bell",
+    "A": "Thomas Edison",
+    "B": "Alexander Graham Bell",
+    "C": "Isaac Newton",
+    "D": "Benjamin Franklin"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama benda yang digunakan untuk menyapu?",
+    "jawaban": "Sapu"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah bendera negara apa?",
+    "gambar_url": "https://example.com/images/flag-uk.png",
+    "jawaban": "Inggris",
+    "A": "Inggris",
+    "B": "Australia",
+    "C": "Kanada",
+    "D": "New Zealand"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah alat musik apa?",
+    "gambar_url": "https://example.com/images/violin.png",
+    "jawaban": "Biola"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa yang digunakan untuk membaca?",
+    "jawaban": "Buku",
+    "A": "Pensil",
+    "B": "Buku",
+    "C": "Kertas",
+    "D": "Tas"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa alat untuk menulis di kertas?",
+    "jawaban": "Pensil"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah hewan apa?",
+    "gambar_url": "https://example.com/images/cat.png",
+    "jawaban": "Kucing",
+    "A": "Anjing",
+    "B": "Kelinci",
+    "C": "Kucing",
+    "D": "Burung"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah alat dapur apa?",
+    "gambar_url": "https://example.com/images/knife.png",
+    "jawaban": "Pisau"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Siapa penulis buku 'Pride and Prejudice'?",
+    "jawaban": "Jane Austen",
+    "A": "Charles Dickens",
+    "B": "Mark Twain",
+    "C": "Ernest Hemingway",
+    "D": "Jane Austen"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa yang digunakan untuk mengukur suhu?",
+    "jawaban": "Termometer"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah sayuran apa?",
+    "gambar_url": "https://example.com/images/carrot.png",
+    "jawaban": "Wortel",
+    "A": "Kentang",
+    "B": "Tomat",
+    "C": "Wortel",
+    "D": "Brokoli"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah minuman apa?",
+    "gambar_url": "https://example.com/images/coffee.png",
+    "jawaban": "Kopi"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa mata uang Inggris?",
+    "jawaban": "Pound Sterling",
+    "A": "Euro",
+    "B": "Dollar",
+    "C": "Pound Sterling",
+    "D": "Rupiah"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa warna bendera Perancis?",
+    "jawaban": "Biru, Putih, Merah"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Gambar berikut adalah jenis pohon apa?",
+    "gambar_url": "https://example.com/images/oak-tree.png",
+    "jawaban": "Pohon Oak",
+    "A": "Pohon Oak",
+    "B": "Pohon Pinus",
+    "C": "Pohon Beringin",
+    "D": "Pohon Kelapa"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Gambar berikut adalah alat transportasi apa?",
+    "gambar_url": "https://example.com/images/train.png",
+    "jawaban": "Kereta"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa nama ibu kota Australia?",
+    "pilihan": ["Canberra", "Sydney", "Melbourne", "Brisbane"],
+    "Jawaban" : "Canberra",
+    "A": "Canberra",
+    "B": "Sydney",
+    "C": "Melbourne",
+    "D": "Canberra"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Siapa presiden pertama Indonesia?",
+    "jawaban": "Soekarno",
+    "A": "Soekarno",
+    "B": "Soeharto",
+    "C": "BJ Habibie",
+    "D": "Megawati"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa nama planet terdekat dengan matahari?",
+    "jawaban": "Merkurius",
+    "A": "Mars",
+    "B": "Venus",
+    "C": "Merkurius",
+    "D": "Bumi"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa warna primer yang ada dalam model warna RGB?",
+    "jawaban": "Merah",
+    "A": "Merah",
+    "B": "Hijau",
+    "C": "Biru",
+    "D": "Kuning"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Siapa penulis buku 'Laskar Pelangi'?",
+    "jawaban": "Andrea Hirata",
+    "A": "Pramoedya Ananta Toer",
+    "B": "Andrea Hirata",
+    "C": "Dewi Lestari",
+    "D": "Tere Liye"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa nama mata uang resmi Jepang?",
+    "jawaban": "Yen",
+    "A": "Yuan",
+    "B": "Yen",
+    "C": "Won",
+    "D": "Rupiah"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Dimana letak Tembok Besar Cina?",
+    "jawaban": "Cina",
+    "A": "Jepang",
+    "B": "Cina",
+    "C": "Korea Selatan",
+    "D": "Mongolia"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa ibu kota Australia?",
+    "jawaban": "Canberra",
+    "A": "Sydney",
+    "B": "Melbourne",
+    "C": "Canberra",
+    "D": "Perth"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa lambang kimia untuk besi?",
+    "jawaban": "Fe",
+    "A": "Fe",
+    "B": "Au",
+    "C": "Ag",
+    "D": "Cu"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Berapa jumlah provinsi di Indonesia?",
+    "jawaban": "34",
+    "A": "32",
+    "B": "33",
+    "C": "34",
+    "D": "35"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Siapa penemu teori relativitas?",
+    "jawaban": "Albert Einstein",
+    "A": "Isaac Newton",
+    "B": "Albert Einstein",
+    "C": "Galileo Galilei",
+    "D": "Nikola Tesla"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Siapa tokoh utama dalam cerita Ramayana?",
+    "jawaban": "Rama",
+    "A": "Rama",
+    "B": "Krishna",
+    "C": "Bima",
+    "D": "Arjuna"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa nama samudra terbesar di dunia?",
+    "jawaban": "Samudra Pasifik",
+    "A": "Samudra Atlantik",
+    "B": "Samudra Hindia",
+    "C": "Samudra Pasifik",
+    "D": "Samudra Arktik"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Siapa penemu telepon?",
+    "jawaban": "Alexander Graham Bell",
+    "A": "Nikola Tesla",
+    "B": "Thomas Edison",
+    "C": "Alexander Graham Bell",
+    "D": "James Watt"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa nama negara dengan populasi terbesar di dunia?",
+    "jawaban": "Cina",
+    "A": "India",
+    "B": "Amerika Serikat",
+    "C": "Cina",
+    "D": "Indonesia"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa nama candi Budha terbesar di dunia?",
+    "jawaban": "Borobudur",
+    "A": "Angkor Wat",
+    "B": "Borobudur",
+    "C": "Shwedagon",
+    "D": "Bodh Gaya"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa ibu kota Inggris?",
+    "jawaban": "London",
+    "A": "Paris",
+    "B": "London",
+    "C": "Berlin",
+    "D": "Madrid"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Siapa yang menemukan hukum gravitasi?",
+    "jawaban": "Isaac Newton",
+    "A": "Galileo Galilei",
+    "B": "Albert Einstein",
+    "C": "Isaac Newton",
+    "D": "James Clerk Maxwell"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa nama ibukota Prancis?",
+    "jawaban": "Paris",
+    "A": "Berlin",
+    "B": "Madrid",
+    "C": "Paris",
+    "D": "Roma"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Dimana Piramida Giza berada?",
+    "jawaban": "Mesir",
+    "A": "Mesir",
+    "B": "Yordania",
+    "C": "Meksiko",
+    "D": "India"
+    },
+    {
+    "kategori": "pilihan_ganda",
+    "soal": "Apa nama sungai terpanjang di dunia?",
+    "jawaban": "Sungai Nil",
+    "A": "Sungai Amazon",
+    "B": "Sungai Nil",
+    "C": "Sungai Yangtze",
+    "D": "Sungai Mississippi"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama satelit alami Bumi?",
+    "jawaban": "Bulan"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama planet merah dalam tata surya?",
+    "jawaban": "Mars"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Siapa penulis 'Harry Potter'?",
+    "jawaban": "J.K. Rowling"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama negara terbesar di dunia?",
+    "jawaban": "Rusia"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa ibu kota Thailand?",
+    "jawaban": "Bangkok"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Siapa presiden AS saat ini?",
+    "jawaban": "Joe Biden"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama unsur kimia dengan simbol Na?",
+    "jawaban": "Natrium"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama ibu kota Italia?",
+    "jawaban": "Roma"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama ibu kota Rusia?",
+    "jawaban": "Moskow"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Siapa penemu mesin cetak?",
+    "jawaban": "Johannes Gutenberg"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa ibu kota Kanada?",
+    "jawaban": "Ottawa"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama hewan nasional Australia?",
+    "jawaban": "Kanguru"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Siapa penulis 'War and Peace'?",
+    "jawaban": "Leo Tolstoy"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama ibu kota Spanyol?",
+    "jawaban": "Madrid"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama lautan terdalam di dunia?",
+    "jawaban": "Laut Pasifik"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama satelit terbesar Jupiter?",
+    "jawaban": "Ganymede"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Siapa penulis 'The Great Gatsby'?",
+    "jawaban": "F. Scott Fitzgerald"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama negara terpadat di dunia?",
+    "jawaban": "Cina"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Apa nama samudra terdalam di dunia?",
+    "jawaban": "Samudra Pasifik"
+    },
+    {
+    "kategori": "essay",
+    "soal": "Siapa penemu bola lampu?",
+    "jawaban": "Thomas Edison"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama bangunan di gambar ini?",
+    "gambar": "path_to_building_image_8.jpg",
+    "jawaban": "Menara Eiffel",
+    "A": "Colosseum",
+    "B": "Menara Pisa",
+    "C": "Big Ben",
+    "D": "Menara Eiffel"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama buah di gambar ini?",
+    "gambar": "path_to_fruit_image_8.jpg",
+    "jawaban": "Mangga",
+    "A": "Jeruk",
+    "B": "Apel",
+    "C": "Pisang",
+    "D": "Mangga"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama binatang di gambar ini?",
+    "gambar": "path_to_animal_image_8.jpg",
+    "jawaban": "Gajah",
+    "A": "Gajah",
+    "B": "Badak",
+    "C": "Harimau",
+    "D": "Zebra"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama alat transportasi di gambar ini?",
+    "gambar": "path_to_transport_image_7.jpg",
+    "jawaban": "Kereta",
+    "A": "Pesawat",
+    "B": "Kereta",
+    "C": "Kapal",
+    "D": "Mobil"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama bendera negara di gambar ini?",
+    "gambar": "path_to_flag_image_7.jpg",
+    "jawaban": "Jepang",
+    "A": "Cina",
+    "B": "Korea Selatan",
+    "C": "Jepang",
+    "D": "Thailand"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama peta negara di gambar ini?",
+    "gambar": "path_to_map_image_8.jpg",
+    "jawaban": "Amerika Serikat",
+    "A": "Kanada",
+    "B": "Meksiko",
+    "C": "Amerika Serikat",
+    "D": "Brasil"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama buah di gambar ini?",
+    "gambar": "path_to_fruit_image_9.jpg",
+    "jawaban": "Apel",
+    "A": "Mangga",
+    "B": "Pisang",
+    "C": "Apel",
+    "D": "Jeruk"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama binatang di gambar ini?",
+    "gambar": "path_to_animal_image_9.jpg",
+    "jawaban": "Jerapah",
+    "A": "Kuda",
+    "B": "Jerapah",
+    "C": "Zebra",
+    "D": "Gajah"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama alat transportasi di gambar ini?",
+    "gambar": "path_to_transport_image_8.jpg",
+    "jawaban": "Pesawat",
+    "A": "Kapal",
+    "B": "Kereta",
+    "C": "Pesawat",
+    "D": "Mobil"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama peta negara di gambar ini?",
+    "gambar": "path_to_map_image_9.jpg",
+    "jawaban": "Indonesia",
+    "A": "Filipina",
+    "B": "Thailand",
+    "C": "Indonesia",
+    "D": "Malaysia"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama bangunan di gambar ini?",
+    "gambar": "path_to_building_image_10.jpg",
+    "jawaban": "Colosseum",
+    "A": "Colosseum",
+    "B": "Pantheon",
+    "C": "Menara Pisa",
+    "D": "Menara Eiffel"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama buah di gambar ini?",
+    "gambar": "path_to_fruit_image_10.jpg",
+    "jawaban": "Pepaya",
+    "A": "Pepaya",
+    "B": "Nanas",
+    "C": "Durian",
+    "D": "Apel"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama binatang di gambar ini?",
+    "gambar": "path_to_animal_image_10.jpg",
+    "jawaban": "Kuda",
+    "A": "Kuda",
+    "B": "Zebra",
+    "C": "Gajah",
+    "D": "Badak"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama alat transportasi di gambar ini?",
+    "gambar": "path_to_transport_image_9.jpg",
+    "jawaban": "Sepeda",
+    "A": "Motor",
+    "B": "Sepeda",
+    "C": "Mobil",
+    "D": "Kapal"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama bendera negara di gambar ini?",
+    "gambar": "path_to_flag_image_9.jpg",
+    "jawaban": "Kanada",
+    "A": "Kanada",
+    "B": "Inggris",
+    "C": "Australia",
+    "D": "Prancis"
+    },
+    {
+    "kategori": "gambar_pilihan_ganda",
+    "soal": "Apa nama peta negara di gambar ini?",
+    "gambar": "path_to_map_image_10.jpg",
+    "jawaban": "India",
+    "A": "India",
+    "B": "Pakistan",
+    "C": "Bangladesh",
+    "D": "Sri Lanka"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama binatang yang ada di gambar ini?",
+    "gambar": "path_to_animal_image_8.jpg",
+    "jawaban": "Gajah"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama buah yang ada di gambar ini?",
+    "gambar": "path_to_fruit_image_8.jpg",
+    "jawaban": "Mangga"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama bangunan yang ada di gambar ini?",
+    "gambar": "path_to_building_image_8.jpg",
+    "jawaban": "Menara Eiffel"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama alat transportasi yang ada di gambar ini?",
+    "gambar": "path_to_transport_image_7.jpg",
+    "jawaban": "Kereta"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama bendera negara yang ada di gambar ini?",
+    "gambar": "path_to_flag_image_7.jpg",
+    "jawaban": "Jepang"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama peta negara yang ada di gambar ini?",
+    "gambar": "path_to_map_image_8.jpg",
+    "jawaban": "Amerika Serikat"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama binatang yang ada di gambar ini?",
+    "gambar": "path_to_animal_image_9.jpg",
+    "jawaban": "Jerapah"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama buah yang ada di gambar ini?",
+    "gambar": "path_to_fruit_image_9.jpg",
+    "jawaban": "Apel"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama bangunan yang ada di gambar ini?",
+    "gambar": "path_to_building_image_9.jpg",
+    "jawaban": "Taj Mahal"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama alat transportasi yang ada di gambar ini?",
+    "gambar": "path_to_transport_image_8.jpg",
+    "jawaban": "Pesawat"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama bendera negara yang ada di gambar ini?",
+    "gambar": "path_to_flag_image_8.jpg",
+    "jawaban": "Australia"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama peta negara yang ada di gambar ini?",
+    "gambar": "path_to_map_image_9.jpg",
+    "jawaban": "Indonesia"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama binatang yang ada di gambar ini?",
+    "gambar": "path_to_animal_image_10.jpg",
+    "jawaban": "Kuda"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama buah yang ada di gambar ini?",
+    "gambar": "path_to_fruit_image_10.jpg",
+    "jawaban": "Pepaya"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama bangunan yang ada di gambar ini?",
+    "gambar": "path_to_building_image_10.jpg",
+    "jawaban": "Colosseum"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama alat transportasi yang ada di gambar ini?",
+    "gambar": "path_to_transport_image_9.jpg",
+    "jawaban": "Sepeda"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama bendera negara yang ada di gambar ini?",
+    "gambar": "path_to_flag_image_9.jpg",
+    "jawaban": "Kanada"
+    },
+    {
+    "kategori": "gambar_essay",
+    "soal": "Apa nama peta negara yang ada di gambar ini?",
+    "gambar": "path_to_map_image_10.jpg",
+    "jawaban": "India"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa hewan darat tercepat di dunia?",
+        "jawaban": "Cheetah",
+        "A": "Cheetah",
+        "B": "Singa",
+        "C": "Kuda",
+        "D": "Harimau"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang menciptakan karakter animasi Mickey Mouse?",
+        "jawaban": "Walt Disney",
+        "A": "Walt Disney",
+        "B": "Osamu Tezuka",
+        "C": "Hanna-Barbera",
+        "D": "Charles M. Schulz"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama gunung tertinggi di Afrika?",
+        "jawaban": "Kilimanjaro",
+        "A": "Kilimanjaro",
+        "B": "Everest",
+        "C": "Aconcagua",
+        "D": "Elbrus"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Negara mana yang memiliki garis pantai terpanjang di dunia?",
+        "jawaban": "Kanada",
+        "A": "Australia",
+        "B": "Kanada",
+        "C": "Indonesia",
+        "D": "Rusia"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa logam terberat yang ada di bumi?",
+        "jawaban": "Osmium",
+        "A": "Emas",
+        "B": "Platina",
+        "C": "Osmium",
+        "D": "Uranium"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama makanan khas Jepang yang terbuat dari ikan mentah?",
+        "jawaban": "Sushi",
+        "A": "Sushi",
+        "B": "Kimchi",
+        "C": "Bulgogi",
+        "D": "Dim Sum"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa penemu bola lampu?",
+        "jawaban": "Thomas Edison",
+        "A": "Thomas Edison",
+        "B": "Nikola Tesla",
+        "C": "Alexander Graham Bell",
+        "D": "Michael Faraday"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama bunga nasional Jepang?",
+        "jawaban": "Sakura",
+        "A": "Sakura",
+        "B": "Tulip",
+        "C": "Mawar",
+        "D": "Lily"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa hewan nasional Australia?",
+        "jawaban": "Kanguru",
+        "A": "Kanguru",
+        "B": "Koala",
+        "C": "Emu",
+        "D": "Platypus"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa ibu kota negara Islandia?",
+        "jawaban": "Reykjavik",
+        "A": "Reykjavik",
+        "B": "Oslo",
+        "C": "Helsinki",
+        "D": "Stockholm"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang menciptakan teori evolusi melalui seleksi alam?",
+        "jawaban": "Charles Darwin",
+        "A": "Charles Darwin",
+        "B": "Gregor Mendel",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Alfred Wallace"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Negara mana yang memiliki populasi terbesar di dunia?",
+        "jawaban": "Cina",
+        "A": "India",
+        "B": "Cina",
+        "C": "Amerika Serikat",
+        "D": "Indonesia"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama lukisan terkenal yang dibuat oleh Leonardo da Vinci?",
+        "jawaban": "Mona Lisa",
+        "A": "The Starry Night",
+        "B": "Mona Lisa",
+        "C": "The Persistence of Memory",
+        "D": "Guernica"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa unsur kimia dengan simbol 'Fe'?",
+        "jawaban": "Besi",
+        "A": "Besi",
+        "B": "Timah",
+        "C": "Tembaga",
+        "D": "Emas"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa bahasa yang paling banyak digunakan di dunia?",
+        "jawaban": "Mandarin",
+        "A": "Inggris",
+        "B": "Mandarin",
+        "C": "Spanyol",
+        "D": "Hindi"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama pulau terbesar di dunia?",
+        "jawaban": "Greenland",
+        "A": "Greenland",
+        "B": "Borneo",
+        "C": "Madagaskar",
+        "D": "Pulau Kalimantan"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa tokoh utama dalam serial televisi 'Breaking Bad'?",
+        "jawaban": "Walter White",
+        "A": "Walter White",
+        "B": "Jesse Pinkman",
+        "C": "Saul Goodman",
+        "D": "Hank Schrader"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa hewan yang dikenal sebagai 'serangga penyengat paling mematikan'?",
+        "jawaban": "Nyamuk",
+        "A": "Lebah",
+        "B": "Kalajengking",
+        "C": "Nyamuk",
+        "D": "Tawon"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama alat musik tradisional Australia yang terbuat dari kayu?",
+        "jawaban": "Didgeridoo",
+        "A": "Didgeridoo",
+        "B": "Sitar",
+        "C": "Bagpipe",
+        "D": "Banjo"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa penulis novel '1984'?",
+        "jawaban": "George Orwell",
+        "A": "George Orwell",
+        "B": "Aldous Huxley",
+        "C": "Ray Bradbury",
+        "D": "Kurt Vonnegut"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Negara mana yang memiliki jumlah gunung berapi aktif terbanyak?",
+        "jawaban": "Indonesia",
+        "A": "Indonesia",
+        "B": "Jepang",
+        "C": "Islandia",
+        "D": "Filipina"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa hewan nasional dari India?",
+        "jawaban": "Harimau",
+        "A": "Harimau",
+        "B": "Gajah",
+        "C": "Singa",
+        "D": "Panda"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama planet terbesar di tata surya kita?",
+        "jawaban": "Jupiter",
+        "A": "Jupiter",
+        "B": "Saturnus",
+        "C": "Neptunus",
+        "D": "Uranus"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama makanan tradisional Korea yang difermentasi dari sayuran?",
+        "jawaban": "Kimchi",
+        "A": "Kimchi",
+        "B": "Sushi",
+        "C": "Ramen",
+        "D": "Bibimbap"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Di negara mana Terusan Suez berada?",
+        "jawaban": "Mesir",
+        "A": "Mesir",
+        "B": "Arab Saudi",
+        "C": "Sudan",
+        "D": "Libya"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama ilmuwan yang menemukan penisilin?",
+        "jawaban": "Alexander Fleming",
+        "A": "Alexander Fleming",
+        "B": "Louis Pasteur",
+        "C": "Robert Koch",
+        "D": "Joseph Lister"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama candi Hindu terbesar di Indonesia?",
+        "jawaban": "Prambanan",
+        "A": "Prambanan",
+        "B": "Borobudur",
+        "C": "Tanah Lot",
+        "D": "Besakih"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama tanaman yang dikenal sebagai 'Ratu Malam' karena berbunga di malam hari?",
+        "jawaban": "Wijaya Kusuma",
+        "A": "Wijaya Kusuma",
+        "B": "Anggrek Bulan",
+        "C": "Raflesia",
+        "D": "Mawar"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa tokoh utama dalam film 'The Matrix'?",
+        "jawaban": "Neo",
+        "A": "Neo",
+        "B": "Morpheus",
+        "C": "Trinity",
+        "D": "Agent Smith"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Negara mana yang memiliki garis khatulistiwa terpanjang?",
+        "jawaban": "Brazil",
+        "A": "Indonesia",
+        "B": "Brazil",
+        "C": "Kenya",
+        "D": "Ekuador"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama sungai yang dianggap suci oleh umat Hindu di India?",
+        "jawaban": "Sungai Gangga",
+        "A": "Sungai Gangga",
+        "B": "Sungai Yamuna",
+        "C": "Sungai Brahmaputra",
+        "D": "Sungai Indus"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama hewan laut yang memiliki delapan lengan?",
+        "jawaban": "Gurita",
+        "A": "Gurita",
+        "B": "Ubur-ubur",
+        "C": "Cumi-cumi",
+        "D": "Bintang Laut"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang dianggap sebagai penemu mesin cetak?",
+        "jawaban": "Johannes Gutenberg",
+        "A": "Johannes Gutenberg",
+        "B": "Leonardo da Vinci",
+        "C": "Galileo Galilei",
+        "D": "Isaac Newton"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama negara yang terletak paling selatan di dunia?",
+        "jawaban": "Chili",
+        "A": "Argentina",
+        "B": "Chili",
+        "C": "Australia",
+        "D": "Afrika Selatan"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama warna yang dihasilkan dari campuran biru dan kuning?",
+        "jawaban": "Hijau",
+        "A": "Hijau",
+        "B": "Ungu",
+        "C": "Oranye",
+        "D": "Coklat"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama pulau yang terletak di antara Jawa dan Bali?",
+        "jawaban": "Madura",
+        "A": "Madura",
+        "B": "Sumatra",
+        "C": "Lombok",
+        "D": "Komodo"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa penulis naskah drama 'Romeo and Juliet'?",
+        "jawaban": "William Shakespeare",
+        "A": "William Shakespeare",
+        "B": "Christopher Marlowe",
+        "C": "Oscar Wilde",
+        "D": "George Bernard Shaw"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama mata uang resmi Brasil?",
+        "jawaban": "Real",
+        "A": "Real",
+        "B": "Peso",
+        "C": "Dollar",
+        "D": "Lira"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Negara mana yang terkenal dengan opera house yang berbentuk seperti cangkang?",
+        "jawaban": "Australia",
+        "A": "Australia",
+        "B": "Prancis",
+        "C": "Italia",
+        "D": "Spanyol"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama tempat suci umat Islam di Mekkah yang menjadi kiblat shalat?",
+        "jawaban": "Ka'bah",
+        "A": "Ka'bah",
+        "B": "Masjid Nabawi",
+        "C": "Masjid Quba",
+        "D": "Masjid Al-Aqsa"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa komposer yang dikenal dengan simfoni 'Fur Elise'?",
+        "jawaban": "Ludwig van Beethoven",
+        "A": "Ludwig van Beethoven",
+        "B": "Wolfgang Amadeus Mozart",
+        "C": "Johann Sebastian Bach",
+        "D": "Franz Schubert"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama planet yang dikenal sebagai 'Planet Biru'?",
+        "jawaban": "Bumi",
+        "A": "Bumi",
+        "B": "Neptunus",
+        "C": "Mars",
+        "D": "Venus"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama jembatan terkenal di San Francisco?",
+        "jawaban": "Golden Gate Bridge",
+        "A": "Brooklyn Bridge",
+        "B": "Golden Gate Bridge",
+        "C": "Tower Bridge",
+        "D": "Sydney Harbour Bridge"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama sungai terpanjang di Asia?",
+        "jawaban": "Sungai Yangtze",
+        "A": "Sungai Mekong",
+        "B": "Sungai Yangtze",
+        "C": "Sungai Gangga",
+        "D": "Sungai Indus"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama ibu kota negara Thailand?",
+        "jawaban": "Bangkok",
+        "A": "Bangkok",
+        "B": "Phnom Penh",
+        "C": "Hanoi",
+        "D": "Vientiane"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang menulis novel 'To Kill a Mockingbird'?",
+        "jawaban": "Harper Lee",
+        "A": "Harper Lee",
+        "B": "Mark Twain",
+        "C": "F. Scott Fitzgerald",
+        "D": "Ernest Hemingway"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama alat musik tradisional dari Hawaii?",
+        "jawaban": "Ukulele",
+        "A": "Ukulele",
+        "B": "Sitar",
+        "C": "Banjo",
+        "D": "Mandolin"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama gunung berapi aktif tertinggi di dunia?",
+        "jawaban": "Ojos del Salado",
+        "A": "Kilimanjaro",
+        "B": "Ojos del Salado",
+        "C": "Mauna Loa",
+        "D": "Mount Etna"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama sungai terpanjang di Amerika Selatan?",
+        "jawaban": "Sungai Amazon",
+        "A": "Sungai Amazon",
+        "B": "Sungai Orinoco",
+        "C": "Sungai Parana",
+        "D": "Sungai Magdalena"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama negara terkecil di dunia berdasarkan luas wilayah?",
+        "jawaban": "Vatican City",
+        "A": "Vatican City",
+        "B": "Monaco",
+        "C": "San Marino",
+        "D": "Liechtenstein"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang menulis novel 'One Hundred Years of Solitude'?",
+        "jawaban": "Gabriel Garcia Marquez",
+        "A": "Gabriel Garcia Marquez",
+        "B": "Jorge Luis Borges",
+        "C": "Mario Vargas Llosa",
+        "D": "Isabel Allende"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama makanan khas Timur Tengah yang terbuat dari chickpea?",
+        "jawaban": "Falafel",
+        "A": "Falafel",
+        "B": "Hummus",
+        "C": "Baba Ghanoush",
+        "D": "Tabbouleh"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa komposer yang dikenal dengan simfoni 'The Four Seasons'?",
+        "jawaban": "Antonio Vivaldi",
+        "A": "Antonio Vivaldi",
+        "B": "Johann Sebastian Bach",
+        "C": "Ludwig van Beethoven",
+        "D": "Wolfgang Amadeus Mozart"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama gunung tertinggi di Eropa?",
+        "jawaban": "Mount Elbrus",
+        "A": "Mount Elbrus",
+        "B": "Mont Blanc",
+        "C": "Matterhorn",
+        "D": "Mount Kazbek"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa presiden pertama Amerika Serikat?",
+        "jawaban": "George Washington",
+        "A": "George Washington",
+        "B": "Thomas Jefferson",
+        "C": "John Adams",
+        "D": "Benjamin Franklin"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama planet yang memiliki cincin paling mencolok?",
+        "jawaban": "Saturnus",
+        "A": "Saturnus",
+        "B": "Jupiter",
+        "C": "Neptunus",
+        "D": "Uranus"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama alat musik yang dikenal dengan tuts putih dan hitam?",
+        "jawaban": "Piano",
+        "A": "Piano",
+        "B": "Organ",
+        "C": "Harmonika",
+        "D": "Harpsichord"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Negara mana yang memiliki monumen 'Christ the Redeemer'?",
+        "jawaban": "Brasil",
+        "A": "Argentina",
+        "B": "Brasil",
+        "C": "Chile",
+        "D": "Peru"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama hewan yang paling lama bisa hidup tanpa makanan?",
+        "jawaban": "Kumbang",
+        "A": "Kumbang",
+        "B": "Tikus",
+        "C": "Buaya",
+        "D": "Kura-kura"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang menulis trilogi 'The Lord of the Rings'?",
+        "jawaban": "J.R.R. Tolkien",
+        "A": "J.R.R. Tolkien",
+        "B": "George R.R. Martin",
+        "C": "C.S. Lewis",
+        "D": "J.K. Rowling"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama sungai yang membelah kota London?",
+        "jawaban": "Sungai Thames",
+        "A": "Sungai Thames",
+        "B": "Sungai Seine",
+        "C": "Sungai Danube",
+        "D": "Sungai Rhine"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama kota di Afrika Selatan yang terkenal dengan Tabel Mountain?",
+        "jawaban": "Cape Town",
+        "A": "Cape Town",
+        "B": "Johannesburg",
+        "C": "Pretoria",
+        "D": "Durban"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa ilmuwan yang mengembangkan teori relativitas?",
+        "jawaban": "Albert Einstein",
+        "A": "Albert Einstein",
+        "B": "Isaac Newton",
+        "C": "Stephen Hawking",
+        "D": "Galileo Galilei"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama negara yang berbatasan langsung dengan 14 negara lainnya?",
+        "jawaban": "Cina",
+        "A": "Rusia",
+        "B": "Cina",
+        "C": "India",
+        "D": "Brasil"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama alat musik yang dimainkan dengan memetik senarnya?",
+        "jawaban": "Gitar",
+        "A": "Gitar",
+        "B": "Violin",
+        "C": "Piano",
+        "D": "Flute"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang menulis novel 'The Great Gatsby'?",
+        "jawaban": "F. Scott Fitzgerald",
+        "A": "F. Scott Fitzgerald",
+        "B": "Ernest Hemingway",
+        "C": "John Steinbeck",
+        "D": "William Faulkner"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama satelit alami terbesar dari planet Saturnus?",
+        "jawaban": "Titan",
+        "A": "Titan",
+        "B": "Europa",
+        "C": "Ganymede",
+        "D": "Callisto"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama bangunan tertinggi di dunia?",
+        "jawaban": "Burj Khalifa",
+        "A": "Burj Khalifa",
+        "B": "Shanghai Tower",
+        "C": "Abraj Al-Bait",
+        "D": "Taipei 101"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama sungai terpanjang di Amerika Utara?",
+        "jawaban": "Sungai Mississippi",
+        "A": "Sungai Mississippi",
+        "B": "Sungai Missouri",
+        "C": "Sungai Yukon",
+        "D": "Sungai Colorado"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang mengarang buku 'Alice in Wonderland'?",
+        "jawaban": "Lewis Carroll",
+        "A": "Lewis Carroll",
+        "B": "Hans Christian Andersen",
+        "C": "Charles Dickens",
+        "D": "Jules Verne"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama makanan penutup yang terkenal dari Italia yang berbahan dasar kopi?",
+        "jawaban": "Tiramisu",
+        "A": "Tiramisu",
+        "B": "Panna Cotta",
+        "C": "Gelato",
+        "D": "Cannoli"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama ibu kota Australia?",
+        "jawaban": "Canberra",
+        "A": "Canberra",
+        "B": "Sydney",
+        "C": "Melbourne",
+        "D": "Brisbane"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama burung terbesar yang masih hidup?",
+        "jawaban": "Burung Unta",
+        "A": "Burung Unta",
+        "B": "Burung Kasuari",
+        "C": "Elang",
+        "D": "Albatros"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa penulis buku 'Pride and Prejudice'?",
+        "jawaban": "Jane Austen",
+        "A": "Jane Austen",
+        "B": "Emily Bronte",
+        "C": "Charlotte Bronte",
+        "D": "Mary Shelley"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama gunung berapi aktif di Jepang yang terkenal?",
+        "jawaban": "Gunung Fuji",
+        "A": "Gunung Fuji",
+        "B": "Gunung Aso",
+        "C": "Gunung Sakurajima",
+        "D": "Gunung Kirishima"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama alat ukur yang digunakan untuk mengukur kekuatan gempa?",
+        "jawaban": "Seismometer",
+        "A": "Seismometer",
+        "B": "Barometer",
+        "C": "Anemometer",
+        "D": "Hygrometer"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang menulis trilogi 'His Dark Materials'?",
+        "jawaban": "Philip Pullman",
+        "A": "Philip Pullman",
+        "B": "J.K. Rowling",
+        "C": "J.R.R. Tolkien",
+        "D": "George R.R. Martin"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama negara yang memiliki candi Angkor Wat?",
+        "jawaban": "Kamboja",
+        "A": "Kamboja",
+        "B": "Thailand",
+        "C": "Laos",
+        "D": "Vietnam"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama gunung tertinggi di Jepang?",
+        "jawaban": "Gunung Fuji",
+        "A": "Gunung Fuji",
+        "B": "Gunung Aso",
+        "C": "Gunung Sakurajima",
+        "D": "Gunung Haku"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa yang menulis novel 'The Catcher in the Rye'?",
+        "jawaban": "J.D. Salinger",
+        "A": "J.D. Salinger",
+        "B": "F. Scott Fitzgerald",
+        "C": "Ernest Hemingway",
+        "D": "John Steinbeck"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama negara yang menjadi tempat asal pizza?",
+        "jawaban": "Italia",
+        "A": "Italia",
+        "B": "Amerika Serikat",
+        "C": "Prancis",
+        "D": "Meksiko"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa presiden pertama Indonesia?",
+        "jawaban": "Soekarno",
+        "A": "Soekarno",
+        "B": "Suharto",
+        "C": "Habibie",
+        "D": "Megawati"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama bunga yang menjadi simbol nasional Jepang?",
+        "jawaban": "Sakura",
+        "A": "Sakura",
+        "B": "Lotus",
+        "C": "Tulip",
+        "D": "Mawar"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Siapa penemu listrik?",
+        "jawaban": "Benjamin Franklin",
+        "A": "Benjamin Franklin",
+        "B": "Thomas Edison",
+        "C": "Nikola Tesla",
+        "D": "Alexander Graham Bell"
+    },
+    {
+        "kategori": "pilihan_ganda",
+        "soal": "Apa nama planet terdekat dengan Matahari?",
+        "jawaban": "Merkurius",
+        "A": "Merkurius",
+        "B": "Venus",
+        "C": "Bumi",
+        "D": "Mars"
+    }
+    ]
+      
+  
+]
+}
+    
